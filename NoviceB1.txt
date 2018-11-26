@@ -36,3 +36,17 @@ BSR - Aréna BSR
 CBVO - Centre Bruno Verret (glace Olympique)
     Novice B1 Majeur
     Novice C1 Majeur
+=============================
+
+2018-12-08T00:00:00
+08:00:00 - 09:20:00 ( 01:20 )
+St-Ag - Aréna St-Agapit
+    Novice B1 Majeur
+    Novice B2 Majeur
+=============================
+
+2018-12-23T00:00:00
+14:30:00 - 15:20:00 ( 00:50 )
+BSR - Aréna BSR
+    Novice B1 Majeur
+    Novice B2 Majeur
