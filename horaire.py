@@ -40,7 +40,7 @@ file.write( "************************************************************" + "\n
 file.write( "                        Glace Dispo" + "\n")
 file.write( "************************************************************" + "\n")
 for event in obj:
-        if  event["Description"].encode('utf-8') == "Glace Disponible":
+        if  event["Description"].encode('utf-8') == "Glace disponible":
             file.write( "=============================" + "\n")
             file.write( event["Title"].encode('utf-8') + "\n")
             file.write( event['Date'].encode('utf-8') + "\n")
