@@ -35,3 +35,18 @@ for event in obj:
 
 file.close
 
+file = open("/home/alexandre_roger/workspace/husky-horaire/Dispo.txt","w")
+file.write( "************************************************************" + "\n")
+file.write( "                        Glace Dispo" + "\n")
+file.write( "************************************************************" + "\n")
+for event in obj:
+        if  event["Description"].encode('utf-8') == "Glace Disponible":
+            file.write( "=============================" + "\n")
+            file.write( event["Title"].encode('utf-8') + "\n")
+            file.write( event['Date'].encode('utf-8') + "\n")
+            file.write( event['StartTime'].encode('utf-8') + " - " + event['EndTime'].encode('utf-8') + " ( " +  event['Duration'].encode('utf-8') + " )" + "\n")
+            file.write( event['SportCenterAbr'].encode('utf-8') + " - " + event['SportCenterName'].encode('utf-8') + "\n")
+            for teams in event["TeamList"]:
+                file.write( "    " + teams["Name"].encode('utf-8') + "\n")
+
+file.close
