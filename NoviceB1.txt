@@ -56,3 +56,17 @@ BSR - Aréna BSR
 13:15:00 - 14:05:00 ( 00:50 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Novice B1 Majeur
+=============================
+
+2019-01-04T00:00:00
+17:00:00 - 17:50:00 ( 00:50 )
+BSR - Aréna BSR
+    Novice B1 Majeur
+    Novice C2 Majeur
+=============================
+
+2019-01-25T00:00:00
+17:00:00 - 17:50:00 ( 00:50 )
+BSR - Aréna BSR
+    Novice B1 Majeur
+    Novice C Majeur Féminin
