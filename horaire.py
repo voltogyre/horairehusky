@@ -1,9 +1,10 @@
 import json
+import os
 
-with open('/home/alexandre_roger/workspace/husky-horaire/outputpretty.json', 'r') as fp:
+with open(os.path.dirname(os.path.abspath(__file__))+'/outputpretty.json', 'r') as fp:
     obj = json.load(fp)
 fp.close
-file = open("/home/alexandre_roger/workspace/husky-horaire/NoviceB1.txt","w")
+file = open(os.path.dirname(os.path.abspath(__file__)) + "/NoviceB1.txt","w")
 file.write( "************************************************************\n")
 file.write( "                        Novice B1 Majeur\n")
 file.write( "************************************************************\n")
@@ -18,7 +19,7 @@ for event in obj:
             for teams in event["TeamList"]:
                 file.write( "    " + teams["Name"].encode('utf-8') + "\n")
 file.close
-file = open("/home/alexandre_roger/workspace/husky-horaire/PeeweeA1.txt","w")
+file = open(os.path.dirname(os.path.abspath(__file__)) + "/PeeweeA1.txt","w")
 file.write( "************************************************************" + "\n")
 file.write( "                        Peewee A1" + "\n")
 file.write( "************************************************************" + "\n")
@@ -35,7 +36,7 @@ for event in obj:
 
 file.close
 
-file = open("/home/alexandre_roger/workspace/husky-horaire/Dispo.txt","w")
+file = open(os.path.dirname(os.path.abspath(__file__)) + "/Dispo.txt","w")
 file.write( "************************************************************" + "\n")
 file.write( "                        Glace Dispo" + "\n")
 file.write( "************************************************************" + "\n")
