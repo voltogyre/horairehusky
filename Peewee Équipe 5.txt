@@ -1,0 +1,30 @@
+************************************************************
+                        Peewee Équipe 5
+************************************************************
+=============================
+
+2018-09-10T00:00:00
+19:00:00 - 19:50:00 ( 00:50 )
+CBV - Centre Bruno Verret (glace standard)
+    Peewee Équipe 5
+=============================
+
+2018-09-15T00:00:00
+13:15:00 - 14:35:00 ( 01:20 )
+CBVO - Centre Bruno Verret (glace Olympique)
+    Peewee Équipe 4
+    Peewee Équipe 5
+=============================
+
+2018-09-18T00:00:00
+19:00:00 - 20:20:00 ( 01:20 )
+CBV - Centre Bruno Verret (glace standard)
+    Peewee Équipe 5
+    Peewee Équipe 6
+=============================
+
+2018-09-20T00:00:00
+18:30:00 -  (  )
+CBV - Centre Bruno Verret (glace standard)
+    Peewee Équipe 5
+    Peewee Équipe 7

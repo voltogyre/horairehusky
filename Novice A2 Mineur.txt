@@ -1,0 +1,75 @@
+************************************************************
+                        Novice A2 Mineur
+************************************************************
+=============================
+Équilibrage
+2018-11-17T00:00:00
+08:00:00 - 09:20:00 ( 01:20 )
+St-Ag - Aréna St-Agapit
+    Novice A1 Mineur
+    Novice A2 Mineur
+    Novice B1 Mineur
+    Novice B2 Mineur
+=============================
+
+2018-11-30T00:00:00
+17:45:00 - 18:35:00 ( 00:50 )
+CBVO - Centre Bruno Verret (glace Olympique)
+    Novice A1 Mineur
+    Novice A2 Mineur
+    Novice B1 Mineur
+    Novice B2 Mineur
+=============================
+
+2018-12-01T00:00:00
+15:00:00 - 15:50:00 ( 00:50 )
+St-Ro - Aréna St-Romuald
+    Novice A1 Mineur
+    Novice A2 Mineur
+    Novice B1 Mineur
+    Novice B2 Mineur
+=============================
+
+2018-12-07T00:00:00
+17:00:00 - 17:50:00 ( 00:50 )
+BSR - Aréna BSR
+    Novice A1 Mineur
+    Novice A2 Mineur
+=============================
+
+2018-12-09T00:00:00
+14:30:00 - 15:20:00 ( 00:50 )
+BSR - Aréna BSR
+    Novice A2 Mineur
+=============================
+
+2018-12-14T00:00:00
+18:00:00 - 18:50:00 ( 00:50 )
+BSR - Aréna BSR
+    Novice A1 Mineur
+    Novice A2 Mineur
+=============================
+
+2018-12-21T00:00:00
+18:00:00 - 18:50:00 ( 00:50 )
+BSR - Aréna BSR
+    Novice A1 Mineur
+    Novice A2 Mineur
+=============================
+
+2019-01-11T00:00:00
+18:00:00 - 18:50:00 ( 00:50 )
+BSR - Aréna BSR
+    Novice A1 Mineur
+    Novice A2 Mineur
+    Novice B1 Mineur
+    Novice B2 Mineur
+=============================
+
+2019-01-27T00:00:00
+16:45:00 - 17:35:00 ( 00:50 )
+CBVO - Centre Bruno Verret (glace Olympique)
+    Novice A1 Mineur
+    Novice A2 Mineur
+    Novice B1 Mineur
+    Novice B2 Mineur

@@ -1,0 +1,119 @@
+************************************************************
+                        Husky-Lotbinière Bantam BB
+************************************************************
+=============================
+
+2018-09-25T00:00:00
+19:45:00 - 21:05:00 ( 01:20 )
+CBVO - Centre Bruno Verret (glace Olympique)
+    Husky-Lotbinière Bantam BB
+=============================
+
+2018-10-02T00:00:00
+19:30:00 - 20:50:00 ( 01:20 )
+St-Ag - Aréna St-Agapit
+    Husky-Lotbinière Bantam BB
+=============================
+
+2018-10-09T00:00:00
+19:45:00 - 21:05:00 ( 01:20 )
+CBVO - Centre Bruno Verret (glace Olympique)
+    Husky-Lotbinière Bantam BB
+=============================
+
+2018-10-16T00:00:00
+19:30:00 - 20:50:00 ( 01:20 )
+St-Ag - Aréna St-Agapit
+    Husky-Lotbinière Bantam BB
+=============================
+
+2018-10-23T00:00:00
+19:45:00 - 21:05:00 ( 01:20 )
+CBVO - Centre Bruno Verret (glace Olympique)
+    Husky-Lotbinière Bantam BB
+=============================
+
+2018-10-30T00:00:00
+19:30:00 - 20:50:00 ( 01:20 )
+St-Ag - Aréna St-Agapit
+    Husky-Lotbinière Bantam BB
+=============================
+Hors-glace
+2018-11-01T00:00:00
+19:15:00 - 20:30:00 ( 01:15 )
+gsse - Grande salle St-Etienne
+    Husky-Lotbinière Bantam AA
+    Husky-Lotbinière Bantam BB
+=============================
+
+2018-11-06T00:00:00
+19:45:00 - 21:05:00 ( 01:20 )
+CBVO - Centre Bruno Verret (glace Olympique)
+    Husky-Lotbinière Bantam BB
+=============================
+
+2018-11-13T00:00:00
+19:45:00 - 21:05:00 ( 01:20 )
+CBVO - Centre Bruno Verret (glace Olympique)
+    Husky-Lotbinière Bantam BB
+=============================
+
+2018-11-20T00:00:00
+19:30:00 - 20:50:00 ( 01:20 )
+St-Ag - Aréna St-Agapit
+    Husky-Lotbinière Bantam BB
+=============================
+
+2018-11-27T00:00:00
+19:30:00 - 20:50:00 ( 01:20 )
+St-Ag - Aréna St-Agapit
+    Husky-Lotbinière Bantam BB
+=============================
+Hors-glace
+2018-11-29T00:00:00
+19:15:00 - 20:30:00 ( 01:15 )
+gsse - Grande salle St-Etienne
+    Husky-Lotbinière Bantam AA
+    Husky-Lotbinière Bantam BB
+=============================
+
+2018-12-04T00:00:00
+19:45:00 - 21:05:00 ( 01:20 )
+CBVO - Centre Bruno Verret (glace Olympique)
+    Husky-Lotbinière Bantam BB
+=============================
+
+2018-12-12T00:00:00
+19:30:00 - 20:50:00 ( 01:20 )
+St-G - Aréna St-Gilles
+    Husky-Lotbinière Bantam BB
+=============================
+
+2018-12-18T00:00:00
+19:45:00 - 21:05:00 ( 01:20 )
+CBVO - Centre Bruno Verret (glace Olympique)
+    Husky-Lotbinière Bantam BB
+=============================
+
+2018-12-27T00:00:00
+19:00:00 - 20:20:00 ( 01:20 )
+St-Ag - Aréna St-Agapit
+    Husky-Lotbinière Bantam BB
+=============================
+
+2019-01-15T00:00:00
+19:45:00 - 21:05:00 ( 01:20 )
+CBVO - Centre Bruno Verret (glace Olympique)
+    Husky-Lotbinière Bantam BB
+=============================
+Hors-glace
+2019-01-24T00:00:00
+19:15:00 - 20:30:00 ( 01:15 )
+gsse - Grande salle St-Etienne
+    Husky-Lotbinière Bantam BB
+=============================
+
+2019-01-29T00:00:00
+19:45:00 - 21:05:00 ( 01:20 )
+CBVO - Centre Bruno Verret (glace Olympique)
+    Husky-Lotbinière Bantam BB
