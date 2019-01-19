@@ -143,3 +143,9 @@ CBV - Centre Bruno Verret (glace standard)
 13:45:00 - 14:35:00 ( 00:50 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Atome C2
+=============================
+
+2019-02-01T00:00:00
+17:00:00 - 17:50:00 ( 00:50 )
+BSR - Aréna BSR
+    Atome C2
