@@ -163,3 +163,9 @@ CBV - Centre Bruno Verret (glace standard)
 CBVO - Centre Bruno Verret (glace Olympique)
     Peewee A1
     Peewee A2
+=============================
+
+2019-02-01T00:00:00
+19:00:00 - 19:50:00 ( 00:50 )
+BSR - Aréna BSR
+    Peewee A1
