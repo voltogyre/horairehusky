@@ -218,3 +218,10 @@ CBVO - Centre Bruno Verret (glace Olympique)
 CBV - Centre Bruno Verret (glace standard)
     Atome A1
     Atome A3
+=============================
+
+2019-01-29T00:00:00
+18:00:00 - 19:20:00 ( 01:20 )
+St-G - Aréna St-Gilles
+    Atome A1
+    Atome A2
