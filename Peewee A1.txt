@@ -165,7 +165,8 @@ CBVO - Centre Bruno Verret (glace Olympique)
     Peewee A2
 =============================
 
-2019-02-01T00:00:00
+2019-01-31T00:00:00
 19:00:00 - 19:50:00 ( 00:50 )
 BSR - Aréna BSR
+    Peewee B3
     Peewee A1
