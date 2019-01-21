@@ -232,3 +232,10 @@ St-G - Aréna St-Gilles
 CBV - Centre Bruno Verret (glace standard)
     Atome A1
     Peewee B3
+=============================
+
+2019-02-15T00:00:00
+17:15:00 - 18:35:00 ( 01:20 )
+CBVO - Centre Bruno Verret (glace Olympique)
+    Atome A1
+    Atome C2
