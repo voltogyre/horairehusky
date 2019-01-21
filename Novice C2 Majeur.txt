@@ -70,3 +70,10 @@ BSR - Aréna BSR
 BSR - Aréna BSR
     Novice C1 Majeur
     Novice C2 Majeur
+=============================
+
+2019-02-02T00:00:00
+07:00:00 - 07:50:00 ( 00:50 )
+CBV - Centre Bruno Verret (glace standard)
+    Novice C1 Majeur
+    Novice C2 Majeur
