@@ -231,6 +231,13 @@ gsse - Grande salle St-Etienne
 CBVO - Centre Bruno Verret (glace Olympique)
     Atome BB
 =============================
+Atelier technique
+2019-02-07T00:00:00
+18:00:00 - 18:50:00 ( 00:50 )
+BSR - Aréna BSR
+    Atome AA
+    Atome BB
+=============================
 
 2019-02-12T00:00:00
 17:00:00 - 18:10:00 ( 01:10 )
