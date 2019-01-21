@@ -168,3 +168,10 @@ CBV - Centre Bruno Verret (glace standard)
 CBV - Centre Bruno Verret (glace standard)
     Peewee C1
     Peewee C2
+=============================
+
+2019-02-07T00:00:00
+19:00:00 - 19:50:00 ( 00:50 )
+BSR - Aréna BSR
+    Peewee C1
+    Peewee C2
