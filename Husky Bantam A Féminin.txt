@@ -149,3 +149,17 @@ CBV - Centre Bruno Verret (glace standard)
 CBV - Centre Bruno Verret (glace standard)
     Husky Bantam A Féminin
     Husky Féminin Peewee C
+=============================
+
+2019-02-05T00:00:00
+18:00:00 - 19:20:00 ( 01:20 )
+St-G - Aréna St-Gilles
+    Husky Bantam A Féminin
+    Husky Féminin Peewee C
+=============================
+
+2019-02-12T00:00:00
+18:00:00 - 19:20:00 ( 01:20 )
+St-G - Aréna St-Gilles
+    Husky Bantam A Féminin
+    Husky Féminin Peewee C
