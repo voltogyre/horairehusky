@@ -155,3 +155,15 @@ Hors-glace
 gsse - Grande salle St-Etienne
     Peewee B2
     Peewee B3
+=============================
+
+2019-02-05T00:00:00
+19:00:00 - 19:50:00 ( 00:50 )
+CBV - Centre Bruno Verret (glace standard)
+    Peewee B3
+=============================
+
+2019-02-16T00:00:00
+17:00:00 - 18:20:00 ( 01:20 )
+St-Ro - Aréna St-Romuald
+    Peewee B3
