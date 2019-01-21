@@ -225,3 +225,10 @@ CBV - Centre Bruno Verret (glace standard)
 St-G - Aréna St-Gilles
     Atome A1
     Atome A2
+=============================
+
+2019-02-05T00:00:00
+19:00:00 - 19:50:00 ( 00:50 )
+CBV - Centre Bruno Verret (glace standard)
+    Atome A1
+    Peewee B3
