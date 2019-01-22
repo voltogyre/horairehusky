@@ -117,8 +117,9 @@ CBV - Centre Bruno Verret (glace standard)
 =============================
 
 2019-01-24T00:00:00
-19:30:00 - 20:20:00 ( 00:50 )
+20:30:00 - 21:20:00 ( 00:50 )
 CBV - Centre Bruno Verret (glace standard)
+    Bantam A1
     Bantam B3
 =============================
 
