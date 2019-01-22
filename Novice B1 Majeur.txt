@@ -69,3 +69,10 @@ BSR - Aréna BSR
 17:00:00 - 18:20:00 ( 01:20 )
 BSR - Aréna BSR
     Novice B1 Majeur
+=============================
+
+2019-02-08T00:00:00
+17:00:00 - 17:50:00 ( 00:50 )
+BSR - Aréna BSR
+    Novice B1 Majeur
+    Novice B2 Majeur
