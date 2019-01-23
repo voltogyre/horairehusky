@@ -43,3 +43,9 @@ St-Ro - Aréna St-Romuald
 18:30:00 - 19:50:00 ( 01:20 )
 CBV - Centre Bruno Verret (glace standard)
     As Bantam AAA Féminin
+=============================
+
+2019-02-15T00:00:00
+19:00:00 - 20:20:00 ( 01:20 )
+St-G - Aréna St-Gilles
+    As Bantam AAA Féminin
