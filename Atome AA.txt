@@ -211,7 +211,6 @@ Hors-glace
 18:00:00 - 19:15:00 ( 01:15 )
 gsse - Grande salle St-Etienne
     Atome AA
-    Atome BB
 =============================
 
 2019-02-05T00:00:00
