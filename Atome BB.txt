@@ -236,3 +236,17 @@ BSR - Aréna BSR
 17:00:00 - 18:10:00 ( 01:10 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Atome BB
+=============================
+
+2019-02-14T00:00:00
+18:00:00 - 19:15:00 ( 01:15 )
+gsse - Grande salle St-Etienne
+    Atome AA
+    Atome BB
+=============================
+
+2019-02-28T00:00:00
+18:00:00 - 19:15:00 ( 01:15 )
+gsse - Grande salle St-Etienne
+    Atome AA
+    Atome BB
