@@ -211,6 +211,12 @@ gsse - Grande salle St-Etienne
     Peewee AA
     Peewee BB
 =============================
+
+2019-01-29T00:00:00
+19:15:00 - 20:20:00 ( 01:05 )
+BSR - Aréna BSR
+    Peewee AA
+=============================
 Atelier technique
 2019-01-31T00:00:00
 18:00:00 - 18:50:00 ( 00:50 )
