@@ -95,3 +95,10 @@ St-Ag - Aréna St-Agapit
 07:45:00 - 08:35:00 ( 00:50 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Novice A1 Majeur
+=============================
+
+2019-02-23T00:00:00
+08:00:00 - 09:20:00 ( 01:20 )
+St-Ag - Aréna St-Agapit
+    Novice A1 Majeur
+    Novice A2 Majeur
