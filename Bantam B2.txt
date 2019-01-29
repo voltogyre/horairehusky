@@ -127,3 +127,10 @@ BSR - Aréna BSR
 20:00:00 - 20:50:00 ( 00:50 )
 BSR - Aréna BSR
     Bantam B2
+=============================
+
+2019-02-18T00:00:00
+20:00:00 - 20:50:00 ( 00:50 )
+CBV - Centre Bruno Verret (glace standard)
+    Bantam B1
+    Bantam B2
