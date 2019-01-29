@@ -236,3 +236,9 @@ BSR - Aréna BSR
 gsse - Grande salle St-Etienne
     Peewee AA
     Peewee BB
+=============================
+
+2019-02-16T00:00:00
+11:45:00 - 13:05:00 ( 01:20 )
+CBVO - Centre Bruno Verret (glace Olympique)
+    Peewee AA
