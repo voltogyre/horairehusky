@@ -118,13 +118,6 @@ gsse - Grande salle St-Etienne
 CBVO - Centre Bruno Verret (glace Olympique)
     Husky-Lotbinière Bantam BB
 =============================
-Hors-glace
-2019-02-07T00:00:00
-19:15:00 - 20:30:00 ( 01:15 )
-gsse - Grande salle St-Etienne
-    Husky-Lotbinière Bantam AA
-    Husky-Lotbinière Bantam BB
-=============================
 
 2019-02-12T00:00:00
 19:45:00 - 21:05:00 ( 01:20 )
