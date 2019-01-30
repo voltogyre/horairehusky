@@ -89,6 +89,7 @@ BSR - Aréna BSR
 08:00:00 - 09:20:00 ( 01:20 )
 St-Ag - Aréna St-Agapit
     Novice A1 Majeur
+    Novice C1 Majeur
 =============================
 
 2019-02-16T00:00:00
