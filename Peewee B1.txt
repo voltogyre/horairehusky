@@ -161,6 +161,13 @@ CBV - Centre Bruno Verret (glace standard)
     Peewee B1
     Peewee B2
 =============================
+Hors-glace
+2019-02-21T00:00:00
+19:15:00 - 20:30:00 ( 01:15 )
+gsse - Grande salle St-Etienne
+    Peewee B1
+    Bantam B3
+=============================
 
 2019-02-27T00:00:00
 19:00:00 - 19:50:00 ( 00:50 )
