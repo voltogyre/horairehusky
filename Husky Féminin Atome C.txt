@@ -156,3 +156,10 @@ CBV - Centre Bruno Verret (glace standard)
 CBV - Centre Bruno Verret (glace standard)
     Husky Féminin Atome A
     Husky Féminin Atome C
+=============================
+
+2019-03-01T00:00:00
+17:00:00 - 18:20:00 ( 01:20 )
+BSR - Aréna BSR
+    Husky Féminin Atome A
+    Husky Féminin Atome C

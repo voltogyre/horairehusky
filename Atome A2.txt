@@ -194,3 +194,10 @@ CBV - Centre Bruno Verret (glace standard)
 CBV - Centre Bruno Verret (glace standard)
     Atome A2
     Atome A3
+=============================
+
+2019-02-27T00:00:00
+18:00:00 - 18:50:00 ( 00:50 )
+CBV - Centre Bruno Verret (glace standard)
+    Atome A2
+    Atome B1
