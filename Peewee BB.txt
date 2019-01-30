@@ -237,3 +237,9 @@ BSR - Aréna BSR
 10:15:00 - 11:35:00 ( 01:20 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Peewee BB
+=============================
+
+2019-02-26T00:00:00
+19:15:00 - 20:20:00 ( 01:05 )
+BSR - Aréna BSR
+    Peewee BB

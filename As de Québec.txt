@@ -43,3 +43,10 @@ BSR - Aréna BSR
 BSR - Aréna BSR
     Bantam B1
     As de Québec
+=============================
+
+2019-02-27T00:00:00
+19:30:00 - 20:20:00 ( 00:50 )
+BSR - Aréna BSR
+    Bantam B3
+    As de Québec

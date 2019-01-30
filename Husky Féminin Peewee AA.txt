@@ -155,3 +155,9 @@ St-G - Aréna St-Gilles
 07:00:00 - 08:20:00 ( 01:20 )
 St-G - Aréna St-Gilles
     Husky Féminin Peewee AA
+=============================
+
+2019-02-28T00:00:00
+19:00:00 - 20:20:00 ( 01:20 )
+CBV - Centre Bruno Verret (glace standard)
+    Husky Féminin Peewee AA
