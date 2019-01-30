@@ -184,3 +184,10 @@ gsse - Grande salle St-Etienne
 St-G - Aréna St-Gilles
     Husky Bantam A Féminin
     Husky Féminin Peewee C
+=============================
+
+2019-02-26T00:00:00
+18:00:00 - 19:20:00 ( 01:20 )
+St-G - Aréna St-Gilles
+    Husky Bantam A Féminin
+    Husky Féminin Peewee C
