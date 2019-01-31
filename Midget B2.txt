@@ -127,12 +127,6 @@ CBV - Centre Bruno Verret (glace standard)
     Midget B2
 =============================
 
-2019-02-06T00:00:00
-20:30:00 - 21:20:00 ( 00:50 )
-BSR - Aréna BSR
-    Midget B2
-=============================
-
 2019-02-12T00:00:00
 20:00:00 - 20:50:00 ( 00:50 )
 CBV - Centre Bruno Verret (glace standard)
