@@ -23,8 +23,10 @@ for team in teamlist :
     file.write( "************************************************************\n")
     file.write( "                        "+ team +"\n")
     file.write( "************************************************************\n")
+    number = 0
     for event in obj:
         #print(event)
+        number += 1
         for teams in event["TeamList"]:
             if  teams["Name"].encode('utf-8') == team :
                 file.write( "=============================\n")
