@@ -2,49 +2,49 @@
                         As Peewee AAA Féminin
 ************************************************************
 =============================
-
+(1)
 2018-09-22T00:00:00
 18:30:00 - 19:50:00 ( 01:20 )
 St-Ro - Aréna St-Romuald
     As Peewee AAA Féminin
 =============================
-
+(2)
 2018-09-29T00:00:00
 18:30:00 - 19:50:00 ( 01:20 )
 St-Ro - Aréna St-Romuald
     As Peewee AAA Féminin
 =============================
-
+(3)
 2018-10-20T00:00:00
 17:00:00 - 18:20:00 ( 01:20 )
 St-Ro - Aréna St-Romuald
     As Peewee AAA Féminin
 =============================
-
+(4)
 2018-10-26T00:00:00
 18:15:00 - 19:05:00 ( 00:50 )
 CBVO - Centre Bruno Verret (glace Olympique)
     As Peewee AAA Féminin
 =============================
-
+(5)
 2018-12-16T00:00:00
 18:30:00 - 19:50:00 ( 01:20 )
 CBV - Centre Bruno Verret (glace standard)
     As Peewee AAA Féminin
 =============================
-
+(6)
 2019-01-12T00:00:00
 14:00:00 - 15:20:00 ( 01:20 )
 St-Ro - Aréna St-Romuald
     As Peewee AAA Féminin
 =============================
-
+(7)
 2019-01-17T00:00:00
 19:00:00 - 20:20:00 ( 01:20 )
 St-G - Aréna St-Gilles
     As Peewee AAA Féminin
 =============================
-
+(8)
 2019-01-24T00:00:00
 19:00:00 - 20:20:00 ( 01:20 )
 CBV - Centre Bruno Verret (glace standard)

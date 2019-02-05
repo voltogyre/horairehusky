@@ -2,249 +2,249 @@
                         Atome AA
 ************************************************************
 =============================
-
+(1)
 2018-09-25T00:00:00
 18:20:00 - 19:35:00 ( 01:15 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Atome AA
 =============================
-
+(2)
 2018-10-02T00:00:00
 17:00:00 - 18:10:00 ( 01:10 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Atome AA
 =============================
-
+(3)
 2018-10-08T00:00:00
 09:45:00 - 11:05:00 ( 01:20 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Atome AA
 =============================
-
+(4)
 2018-10-09T00:00:00
 18:20:00 - 19:35:00 ( 01:15 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Atome AA
 =============================
-Pratique technique
+Pratique technique(5)
 2018-10-11T00:00:00
 18:00:00 - 18:50:00 ( 00:50 )
 BSR - Aréna BSR
     Atome AA
     Atome BB
 =============================
-
+(6)
 2018-10-16T00:00:00
 17:00:00 - 18:10:00 ( 01:10 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Atome AA
 =============================
-Pratique technique
+Pratique technique(7)
 2018-10-18T00:00:00
 18:00:00 - 18:50:00 ( 00:50 )
 BSR - Aréna BSR
     Atome AA
     Atome BB
 =============================
-
+(8)
 2018-10-23T00:00:00
 18:20:00 - 19:35:00 ( 01:15 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Atome AA
 =============================
-Hors-Glace
+Hors-Glace(9)
 2018-10-25T00:00:00
 18:00:00 - 19:00:00 ( 01:00 )
 CBV - Centre Bruno Verret (glace standard)
     Atome AA
     Atome BB
 =============================
-
+(10)
 2018-10-30T00:00:00
 17:00:00 - 18:10:00 ( 01:10 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Atome AA
 =============================
-Atelier technique
+Atelier technique(11)
 2018-11-01T00:00:00
 18:00:00 - 18:50:00 ( 00:50 )
 BSR - Aréna BSR
     Atome AA
     Atome BB
 =============================
-
+(12)
 2018-11-06T00:00:00
 18:20:00 - 19:35:00 ( 01:15 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Atome AA
 =============================
-Hors-glace
+Hors-glace(13)
 2018-11-08T00:00:00
 18:00:00 - 19:15:00 ( 01:15 )
 gsse - Grande salle St-Etienne
     Atome AA
     Atome BB
 =============================
-
+(14)
 2018-11-13T00:00:00
 17:00:00 - 18:10:00 ( 01:10 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Atome AA
 =============================
-Atelier technique
+Atelier technique(15)
 2018-11-15T00:00:00
 18:00:00 - 18:50:00 ( 00:50 )
 BSR - Aréna BSR
     Atome AA
     Atome BB
 =============================
-
+(16)
 2018-11-20T00:00:00
 18:20:00 - 19:35:00 ( 01:15 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Atome AA
 =============================
-
+(17)
 2018-11-27T00:00:00
 17:00:00 - 18:10:00 ( 01:10 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Atome AA
 =============================
-
+(18)
 2018-12-04T00:00:00
 18:20:00 - 19:35:00 ( 01:15 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Atome AA
 =============================
-Hors-glace
+Hors-glace(19)
 2018-12-06T00:00:00
 18:00:00 - 19:15:00 ( 01:15 )
 gsse - Grande salle St-Etienne
     Atome AA
     Atome BB
 =============================
-
+(20)
 2018-12-11T00:00:00
 17:00:00 - 18:10:00 ( 01:10 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Atome AA
 =============================
-Atelier technique
+Atelier technique(21)
 2018-12-13T00:00:00
 18:00:00 - 18:50:00 ( 00:50 )
 BSR - Aréna BSR
     Atome AA
     Atome BB
 =============================
-
+(22)
 2018-12-18T00:00:00
 18:20:00 - 19:35:00 ( 01:15 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Atome AA
 =============================
-Hors-glace
+Hors-glace(23)
 2018-12-20T00:00:00
 18:00:00 - 19:15:00 ( 01:15 )
 gsse - Grande salle St-Etienne
     Atome AA
     Atome BB
 =============================
-
+(24)
 2018-12-29T00:00:00
 16:30:00 - 17:20:00 ( 00:50 )
 St-Ro - Aréna St-Romuald
     Atome AA
 =============================
-
+(25)
 2018-12-30T00:00:00
 13:15:00 - 14:05:00 ( 00:50 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Atome AA
 =============================
-
+(26)
 2019-01-08T00:00:00
 17:00:00 - 18:10:00 ( 01:10 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Atome AA
 =============================
-Atelier technique
+Atelier technique(27)
 2019-01-10T00:00:00
 18:00:00 - 18:50:00 ( 00:50 )
 BSR - Aréna BSR
     Atome AA
     Atome BB
 =============================
-
+(28)
 2019-01-15T00:00:00
 18:20:00 - 19:35:00 ( 01:15 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Atome AA
 =============================
-Hors-glace
+Hors-glace(29)
 2019-01-17T00:00:00
 18:00:00 - 19:15:00 ( 01:15 )
 gsse - Grande salle St-Etienne
     Atome AA
     Atome BB
 =============================
-
+(30)
 2019-01-22T00:00:00
 17:00:00 - 18:10:00 ( 01:10 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Atome AA
 =============================
-Atelier technique
+Atelier technique(31)
 2019-01-24T00:00:00
 18:00:00 - 18:50:00 ( 00:50 )
 BSR - Aréna BSR
     Atome AA
     Atome BB
 =============================
-
+(32)
 2019-01-29T00:00:00
 18:20:00 - 19:35:00 ( 01:15 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Atome AA
 =============================
-Hors-glace
+Hors-glace(33)
 2019-01-31T00:00:00
 18:00:00 - 19:15:00 ( 01:15 )
 gsse - Grande salle St-Etienne
     Atome AA
 =============================
-
+(34)
 2019-02-05T00:00:00
 17:00:00 - 18:10:00 ( 01:10 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Atome AA
 =============================
-
+(35)
 2019-02-12T00:00:00
 18:20:00 - 19:35:00 ( 01:15 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Atome AA
 =============================
-
+(36)
 2019-02-19T00:00:00
 18:20:00 - 19:35:00 ( 01:15 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Atome AA
     Atome BB
 =============================
-Hors-glace
+Hors-glace(37)
 2019-02-21T00:00:00
 18:00:00 - 19:15:00 ( 01:15 )
 gsse - Grande salle St-Etienne
     Atome AA
     Husky Féminin Atome A
 =============================
-
+(38)
 2019-02-26T00:00:00
 17:00:00 - 18:10:00 ( 01:10 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Atome AA
 =============================
-Pratique technique
+Pratique technique(39)
 2019-02-28T00:00:00
 18:00:00 - 18:50:00 ( 00:50 )
 BSR - Aréna BSR

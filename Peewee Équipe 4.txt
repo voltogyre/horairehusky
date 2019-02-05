@@ -2,28 +2,28 @@
                         Peewee Équipe 4
 ************************************************************
 =============================
-
+(1)
 2018-09-11T00:00:00
 17:30:00 - 18:50:00 ( 01:20 )
 BSR - Aréna BSR
     Peewee Équipe 1
     Peewee Équipe 4
 =============================
-
+(2)
 2018-09-15T00:00:00
 13:15:00 - 14:35:00 ( 01:20 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Peewee Équipe 4
     Peewee Équipe 5
 =============================
-
+(3)
 2018-09-19T00:00:00
 18:30:00 - 19:50:00 ( 01:20 )
 CBV - Centre Bruno Verret (glace standard)
     Peewee Équipe 4
     Peewee Équipe 6
 =============================
-
+(4)
 2018-09-22T00:00:00
 17:00:00 - 18:20:00 ( 01:20 )
 St-Ro - Aréna St-Romuald

@@ -2,7 +2,7 @@
                         MAHG 1 Husky 6
 ************************************************************
 =============================
-
+(1)
 2018-12-15T00:00:00
 06:45:00 - 07:55:00 ( 01:10 )
 CBVO - Centre Bruno Verret (glace Olympique)
@@ -13,7 +13,7 @@ CBVO - Centre Bruno Verret (glace Olympique)
     MAHG 1 Husky 4
     MAHG 1 Husky 5
 =============================
-Activité de Noël
+Activité de Noël(2)
 2018-12-23T00:00:00
 11:30:00 - 12:50:00 ( 01:20 )
 BSR - Aréna BSR
@@ -24,14 +24,14 @@ BSR - Aréna BSR
     MAHG 1 Husky 4
     MAHG 1 Husky 5
 =============================
-
+(3)
 2018-12-27T00:00:00
 10:00:00 - 10:50:00 ( 00:50 )
 BSR - Aréna BSR
     MAHG 1 Husky 6
     MAHG 2 Husky 6
 =============================
-
+(4)
 2019-01-06T00:00:00
 12:30:00 - 13:20:00 ( 00:50 )
 BSR - Aréna BSR
@@ -40,7 +40,7 @@ BSR - Aréna BSR
     MAHG 1 Husky 5
     MAHG 2 Husky 5
 =============================
-
+(5)
 2019-01-12T00:00:00
 07:00:00 - 07:50:00 ( 00:50 )
 CBV - Centre Bruno Verret (glace standard)
@@ -49,7 +49,7 @@ CBV - Centre Bruno Verret (glace standard)
     MAHG 1 Husky 4
     MAHG 2 Husky 4
 =============================
-
+(6)
 2019-01-13T00:00:00
 13:30:00 - 14:20:00 ( 00:50 )
 BSR - Aréna BSR
@@ -58,7 +58,7 @@ BSR - Aréna BSR
     MAHG 1 Husky 4
     MAHG 1 Husky 5
 =============================
-
+(7)
 2019-01-26T00:00:00
 11:45:00 - 12:35:00 ( 00:50 )
 CBVO - Centre Bruno Verret (glace Olympique)
@@ -67,7 +67,7 @@ CBVO - Centre Bruno Verret (glace Olympique)
     MAHG 1 Husky 3
     MAHG 1 Husky 4
 =============================
-
+(8)
 2019-01-27T00:00:00
 11:30:00 - 12:20:00 ( 00:50 )
 BSR - Aréna BSR
@@ -76,7 +76,7 @@ BSR - Aréna BSR
     MAHG 1 Husky 3
     MAHG 1 Husky 5
 =============================
-
+(9)
 2019-02-24T00:00:00
 07:15:00 - 08:05:00 ( 00:50 )
 CBVO - Centre Bruno Verret (glace Olympique)

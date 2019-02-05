@@ -2,7 +2,7 @@
                         Novice C2 Mineur
 ************************************************************
 =============================
-Équilibrage
+Équilibrage(1)
 2018-11-18T00:00:00
 06:45:00 - 08:05:00 ( 01:20 )
 CBVO - Centre Bruno Verret (glace Olympique)
@@ -10,7 +10,7 @@ CBVO - Centre Bruno Verret (glace Olympique)
     Novice C2 Mineur
     Novice C Féminin Mineur
 =============================
-
+(2)
 2018-11-30T00:00:00
 18:45:00 - 19:35:00 ( 00:50 )
 CBVO - Centre Bruno Verret (glace Olympique)
@@ -18,35 +18,35 @@ CBVO - Centre Bruno Verret (glace Olympique)
     Novice C2 Mineur
     Novice C Féminin Mineur
 =============================
-
+(3)
 2018-12-01T00:00:00
 14:00:00 - 14:50:00 ( 00:50 )
 St-Ro - Aréna St-Romuald
     Novice C1 Mineur
     Novice C2 Mineur
 =============================
-
+(4)
 2018-12-07T00:00:00
 19:00:00 - 19:50:00 ( 00:50 )
 BSR - Aréna BSR
     Novice C1 Mineur
     Novice C2 Mineur
 =============================
-
+(5)
 2018-12-14T00:00:00
 17:15:00 - 18:05:00 ( 00:50 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Novice C1 Mineur
     Novice C2 Mineur
 =============================
-
+(6)
 2018-12-22T00:00:00
 07:00:00 - 07:50:00 ( 00:50 )
 CBV - Centre Bruno Verret (glace standard)
     Novice C1 Mineur
     Novice C2 Mineur
 =============================
-
+(7)
 2019-01-13T00:00:00
 14:30:00 - 15:20:00 ( 00:50 )
 BSR - Aréna BSR
@@ -54,14 +54,14 @@ BSR - Aréna BSR
     Novice C2 Mineur
     Novice C Féminin Mineur
 =============================
-
+(8)
 2019-01-19T00:00:00
 14:30:00 - 15:20:00 ( 00:50 )
 CBV - Centre Bruno Verret (glace standard)
     Novice C2 Mineur
     Novice C Féminin Mineur
 =============================
-
+(9)
 2019-01-26T00:00:00
 08:45:00 - 09:35:00 ( 00:50 )
 CBVO - Centre Bruno Verret (glace Olympique)
@@ -70,14 +70,14 @@ CBVO - Centre Bruno Verret (glace Olympique)
     Novice A2 Mineur
     Novice C2 Mineur
 =============================
-
+(10)
 2019-01-27T00:00:00
 15:45:00 - 16:35:00 ( 00:50 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Novice C2 Mineur
     Novice C Féminin Mineur
 =============================
-
+(11)
 2019-02-17T00:00:00
 06:45:00 - 08:05:00 ( 01:20 )
 CBVO - Centre Bruno Verret (glace Olympique)

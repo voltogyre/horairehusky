@@ -26,11 +26,11 @@ for team in teamlist :
     number = 0
     for event in obj:
         #print(event)
-        number += 1
         for teams in event["TeamList"]:
             if  teams["Name"].encode('utf-8') == team :
+                number += 1
                 file.write( "=============================\n")
-                file.write( event["Title"].encode('utf-8') + "\n")
+                file.write( event["Title"].encode('utf-8') + "(" + str(number) + ")\n")
                 file.write( event['Date'].encode('utf-8') + "\n")
                 file.write( xstr(event['StartTime']) + " - " + xstr(event['EndTime']) + " ( " +  xstr(event['Duration']) + " )" + "\n")
                 file.write( event['SportCenterAbr'].encode('utf-8') + " - " + event['SportCenterName'].encode('utf-8') + "\n")

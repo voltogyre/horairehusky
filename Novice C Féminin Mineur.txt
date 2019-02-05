@@ -2,7 +2,7 @@
                         Novice C Féminin Mineur
 ************************************************************
 =============================
-Équilibrage
+Équilibrage(1)
 2018-11-18T00:00:00
 06:45:00 - 08:05:00 ( 01:20 )
 CBVO - Centre Bruno Verret (glace Olympique)
@@ -10,7 +10,7 @@ CBVO - Centre Bruno Verret (glace Olympique)
     Novice C2 Mineur
     Novice C Féminin Mineur
 =============================
-
+(2)
 2018-11-30T00:00:00
 18:45:00 - 19:35:00 ( 00:50 )
 CBVO - Centre Bruno Verret (glace Olympique)
@@ -18,26 +18,26 @@ CBVO - Centre Bruno Verret (glace Olympique)
     Novice C2 Mineur
     Novice C Féminin Mineur
 =============================
-
+(3)
 2018-12-20T00:00:00
 18:30:00 - 19:35:00 ( 01:05 )
 St-Is - Aréna St-Isidore
     Novice C Féminin Mineur
 =============================
-
+(4)
 2018-12-27T00:00:00
 17:00:00 - 17:50:00 ( 00:50 )
 CBV - Centre Bruno Verret (glace standard)
     Novice C Féminin Mineur
 =============================
-
+(5)
 2019-01-04T00:00:00
 17:15:00 - 18:05:00 ( 00:50 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Novice C Majeur Féminin
     Novice C Féminin Mineur
 =============================
-
+(6)
 2019-01-13T00:00:00
 14:30:00 - 15:20:00 ( 00:50 )
 BSR - Aréna BSR
@@ -45,14 +45,14 @@ BSR - Aréna BSR
     Novice C2 Mineur
     Novice C Féminin Mineur
 =============================
-
+(7)
 2019-01-19T00:00:00
 14:30:00 - 15:20:00 ( 00:50 )
 CBV - Centre Bruno Verret (glace standard)
     Novice C2 Mineur
     Novice C Féminin Mineur
 =============================
-
+(8)
 2019-01-26T00:00:00
 07:45:00 - 08:35:00 ( 00:50 )
 CBVO - Centre Bruno Verret (glace Olympique)
@@ -62,14 +62,14 @@ CBVO - Centre Bruno Verret (glace Olympique)
     Novice B2 Mineur
     Novice C Féminin Mineur
 =============================
-
+(9)
 2019-01-27T00:00:00
 15:45:00 - 16:35:00 ( 00:50 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Novice C2 Mineur
     Novice C Féminin Mineur
 =============================
-
+(10)
 2019-02-08T00:00:00
 17:00:00 - 17:50:00 ( 00:50 )
 CBV - Centre Bruno Verret (glace standard)

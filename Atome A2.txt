@@ -2,200 +2,200 @@
                         Atome A2
 ************************************************************
 =============================
-Équilibrage
+Équilibrage(1)
 2018-09-25T00:00:00
 17:00:00 - 17:50:00 ( 00:50 )
 BSR - Aréna BSR
     Atome A1
     Atome A2
 =============================
-Équilibrage
+Équilibrage(2)
 2018-09-28T00:00:00
 17:30:00 - 18:50:00 ( 01:20 )
 St-G - Aréna St-Gilles
     Atome A2
     Atome A3
 =============================
-Équilibrage
+Équilibrage(3)
 2018-09-30T00:00:00
 16:30:00 - 17:50:00 ( 01:20 )
 BSR - Aréna BSR
     Atome A1
     Atome A2
 =============================
-Équilibrage
+Équilibrage(4)
 2018-10-03T00:00:00
 17:00:00 - 18:20:00 ( 01:20 )
 CBV - Centre Bruno Verret (glace standard)
     Atome A1
     Atome A2
 =============================
-Équilibrage
+Équilibrage(5)
 2018-10-07T00:00:00
 13:00:00 - 14:05:00 ( 01:05 )
 CBV - Centre Bruno Verret (glace standard)
     Atome A2
     Husky Féminin Atome A
 =============================
-Équilibrage
+Équilibrage(6)
 2018-10-08T00:00:00
 09:30:00 - 10:50:00 ( 01:20 )
 CBV - Centre Bruno Verret (glace standard)
     Atome A1
     Atome A2
 =============================
-Équilibrage
+Équilibrage(7)
 2018-10-10T00:00:00
 17:00:00 - 18:05:00 ( 01:05 )
 CBV - Centre Bruno Verret (glace standard)
     Atome A2
     Atome A3
 =============================
-Équilibrage
+Équilibrage(8)
 2018-10-13T00:00:00
 18:30:00 - 19:50:00 ( 01:20 )
 St-Ro - Aréna St-Romuald
     Atome A2
     Husky Féminin Atome A
 =============================
-
+(9)
 2018-10-19T00:00:00
 17:15:00 - 18:20:00 ( 01:05 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Atome A2
 =============================
-
+(10)
 2018-10-26T00:00:00
 17:30:00 - 18:50:00 ( 01:20 )
 St-G - Aréna St-Gilles
     Atome A1
     Atome A2
 =============================
-
+(11)
 2018-10-30T00:00:00
 17:00:00 - 17:50:00 ( 00:50 )
 BSR - Aréna BSR
     Atome A2
 =============================
-
+(12)
 2018-11-11T00:00:00
 18:15:00 - 19:05:00 ( 00:50 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Atome A2
 =============================
-
+(13)
 2018-11-25T00:00:00
 06:45:00 - 08:05:00 ( 01:20 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Atome A2
     Atome A3
 =============================
-
+(14)
 2018-12-01T00:00:00
 17:00:00 - 17:50:00 ( 00:50 )
 St-Ro - Aréna St-Romuald
     Atome A2
 =============================
-
+(15)
 2018-12-04T00:00:00
 17:00:00 - 17:50:00 ( 00:50 )
 BSR - Aréna BSR
     Atome A1
     Atome A2
 =============================
-
+(16)
 2018-12-08T00:00:00
 14:30:00 - 15:50:00 ( 01:20 )
 CBV - Centre Bruno Verret (glace standard)
     Atome A2
 =============================
-
+(17)
 2018-12-15T00:00:00
 15:00:00 - 15:50:00 ( 00:50 )
 St-Ro - Aréna St-Romuald
     Atome A2
 =============================
-
+(18)
 2018-12-21T00:00:00
 17:30:00 - 18:50:00 ( 01:20 )
 St-G - Aréna St-Gilles
     Atome A1
     Atome A2
 =============================
-
+(19)
 2018-12-30T00:00:00
 11:30:00 - 12:20:00 ( 00:50 )
 BSR - Aréna BSR
     Atome A2
 =============================
-
+(20)
 2019-01-03T00:00:00
 19:00:00 - 20:20:00 ( 01:20 )
 St-G - Aréna St-Gilles
     Atome A1
     Atome A2
 =============================
-
+(21)
 2019-01-08T00:00:00
 17:00:00 - 17:50:00 ( 00:50 )
 BSR - Aréna BSR
     Atome A1
     Atome A2
 =============================
-
+(22)
 2019-01-17T00:00:00
 17:00:00 - 18:05:00 ( 01:05 )
 CBV - Centre Bruno Verret (glace standard)
     Atome A2
     Husky Féminin Atome A
 =============================
-
+(23)
 2019-01-19T00:00:00
 17:15:00 - 18:05:00 ( 00:50 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Atome A2
 =============================
-
+(24)
 2019-01-25T00:00:00
 17:15:00 - 18:20:00 ( 01:05 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Atome A2
     Atome B3
 =============================
-
+(25)
 2019-01-27T00:00:00
 06:45:00 - 08:05:00 ( 01:20 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Atome A2
 =============================
-
+(26)
 2019-01-29T00:00:00
 18:00:00 - 19:20:00 ( 01:20 )
 St-G - Aréna St-Gilles
     Atome A1
     Atome A2
 =============================
-
+(27)
 2019-02-05T00:00:00
 17:00:00 - 17:50:00 ( 00:50 )
 BSR - Aréna BSR
     Atome A2
 =============================
-
+(28)
 2019-02-14T00:00:00
 18:15:00 - 19:20:00 ( 01:05 )
 CBV - Centre Bruno Verret (glace standard)
     Atome A2
     Atome C3
 =============================
-
+(29)
 2019-02-21T00:00:00
 18:15:00 - 19:20:00 ( 01:05 )
 CBV - Centre Bruno Verret (glace standard)
     Atome A2
     Atome A3
 =============================
-
+(30)
 2019-02-27T00:00:00
 18:00:00 - 18:50:00 ( 00:50 )
 CBV - Centre Bruno Verret (glace standard)

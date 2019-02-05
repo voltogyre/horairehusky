@@ -2,162 +2,162 @@
                         Husky Féminin Atome C
 ************************************************************
 =============================
-Équilibrage
+Équilibrage(1)
 2018-09-29T00:00:00
 18:30:00 - 19:50:00 ( 01:20 )
 BSR - Aréna BSR
     Atome C1
     Husky Féminin Atome C
 =============================
-
+(2)
 2018-10-06T00:00:00
 17:00:00 - 18:20:00 ( 01:20 )
 BSR - Aréna BSR
     Husky Féminin Atome A
     Husky Féminin Atome C
 =============================
-Équilibrage
+Équilibrage(3)
 2018-10-08T00:00:00
 14:00:00 - 15:20:00 ( 01:20 )
 CBV - Centre Bruno Verret (glace standard)
     Atome C3
     Husky Féminin Atome C
 =============================
-Équilibrage
+Équilibrage(4)
 2018-10-12T00:00:00
 17:30:00 - 18:50:00 ( 01:20 )
 St-G - Aréna St-Gilles
     Atome C1
     Husky Féminin Atome C
 =============================
-Équilibrage
+Équilibrage(5)
 2018-10-13T00:00:00
 15:30:00 - 16:20:00 ( 00:50 )
 St-Ro - Aréna St-Romuald
     Atome C2
     Husky Féminin Atome C
 =============================
-
+(6)
 2018-10-20T00:00:00
 08:00:00 - 09:20:00 ( 01:20 )
 St-Ag - Aréna St-Agapit
     Husky Féminin Atome C
 =============================
-
+(7)
 2018-10-26T00:00:00
 17:00:00 - 17:50:00 ( 00:50 )
 BSR - Aréna BSR
     Husky Féminin Atome C
 =============================
-
+(8)
 2018-11-01T00:00:00
 18:00:00 - 19:20:00 ( 01:20 )
 CBV - Centre Bruno Verret (glace standard)
     Husky Féminin Atome A
     Husky Féminin Atome C
 =============================
-
+(9)
 2018-11-11T00:00:00
 14:30:00 - 15:20:00 ( 00:50 )
 BSR - Aréna BSR
     Atome C2
     Husky Féminin Atome C
 =============================
-
+(10)
 2018-11-15T00:00:00
 17:00:00 - 18:05:00 ( 01:05 )
 CBV - Centre Bruno Verret (glace standard)
     Atome C3
     Husky Féminin Atome C
 =============================
-
+(11)
 2018-11-27T00:00:00
 17:00:00 - 17:50:00 ( 00:50 )
 BSR - Aréna BSR
     Husky Féminin Atome A
     Husky Féminin Atome C
 =============================
-
+(12)
 2018-12-06T00:00:00
 18:15:00 - 19:20:00 ( 01:05 )
 CBV - Centre Bruno Verret (glace standard)
     Husky Féminin Atome A
     Husky Féminin Atome C
 =============================
-
+(13)
 2018-12-21T00:00:00
 19:00:00 - 19:50:00 ( 00:50 )
 BSR - Aréna BSR
     Husky Féminin Atome A
     Husky Féminin Atome C
 =============================
-
+(14)
 2018-12-30T00:00:00
 12:15:00 - 13:05:00 ( 00:50 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Husky Féminin Atome C
 =============================
-
+(15)
 2019-01-03T00:00:00
 17:00:00 - 17:50:00 ( 00:50 )
 CBV - Centre Bruno Verret (glace standard)
     Husky Féminin Atome A
     Husky Féminin Atome C
 =============================
-
+(16)
 2019-01-08T00:00:00
 18:00:00 - 19:20:00 ( 01:20 )
 St-G - Aréna St-Gilles
     Husky Féminin Atome A
     Husky Féminin Atome C
 =============================
-
+(17)
 2019-01-18T00:00:00
 17:30:00 - 18:50:00 ( 01:20 )
 St-G - Aréna St-Gilles
     Husky Féminin Atome C
 =============================
-
+(18)
 2019-01-20T00:00:00
 15:00:00 - 15:50:00 ( 00:50 )
 CBV - Centre Bruno Verret (glace standard)
     Husky Féminin Atome C
 =============================
-
+(19)
 2019-01-23T00:00:00
 18:00:00 - 18:50:00 ( 00:50 )
 CBV - Centre Bruno Verret (glace standard)
     Husky Féminin Atome A
     Husky Féminin Atome C
 =============================
-
+(20)
 2019-01-29T00:00:00
 17:00:00 - 17:50:00 ( 00:50 )
 BSR - Aréna BSR
     Husky Féminin Atome C
 =============================
-
+(21)
 2019-02-07T00:00:00
 18:15:00 - 19:20:00 ( 01:05 )
 CBV - Centre Bruno Verret (glace standard)
     Husky Féminin Atome A
     Husky Féminin Atome C
 =============================
-
+(22)
 2019-02-14T00:00:00
 17:00:00 - 18:05:00 ( 01:05 )
 CBV - Centre Bruno Verret (glace standard)
     Husky Féminin Atome A
     Husky Féminin Atome C
 =============================
-
+(23)
 2019-02-19T00:00:00
 19:00:00 - 19:50:00 ( 00:50 )
 CBV - Centre Bruno Verret (glace standard)
     Husky Féminin Atome A
     Husky Féminin Atome C
 =============================
-
+(24)
 2019-03-01T00:00:00
 17:00:00 - 18:20:00 ( 01:20 )
 BSR - Aréna BSR
