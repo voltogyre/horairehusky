@@ -81,10 +81,3 @@ CBV - Centre Bruno Verret (glace standard)
 12:00:00 - 12:50:00 ( 00:50 )
 CBV - Centre Bruno Verret (glace standard)
     Novice A2 Majeur
-=============================
-(13)
-2019-02-23T00:00:00
-08:00:00 - 09:20:00 ( 01:20 )
-St-Ag - Aréna St-Agapit
-    Novice A1 Majeur
-    Novice A2 Majeur
