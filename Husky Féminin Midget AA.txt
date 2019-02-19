@@ -145,3 +145,9 @@ St-Is - Aréna St-Isidore
 19:45:00 - 20:50:00 ( 01:05 )
 St-Is - Aréna St-Isidore
     Husky Féminin Midget AA
+=============================
+(25)
+2019-03-14T00:00:00
+19:45:00 - 20:50:00 ( 01:05 )
+St-Is - Aréna St-Isidore
+    Husky Féminin Midget AA
