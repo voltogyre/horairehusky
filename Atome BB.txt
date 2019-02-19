@@ -248,3 +248,15 @@ CBVO - Centre Bruno Verret (glace Olympique)
 18:20:00 - 19:35:00 ( 01:15 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Atome BB
+=============================
+(40)
+2019-03-05T00:00:00
+17:00:00 - 18:10:00 ( 01:10 )
+CBVO - Centre Bruno Verret (glace Olympique)
+    Atome BB
+=============================
+(41)
+2019-03-12T00:00:00
+18:20:00 - 19:35:00 ( 01:15 )
+CBVO - Centre Bruno Verret (glace Olympique)
+    Atome BB

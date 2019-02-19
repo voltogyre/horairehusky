@@ -255,3 +255,15 @@ Hors-glace(40)
 gsse - Grande salle St-Etienne
     Peewee AA
     Peewee BB
+=============================
+(41)
+2019-03-05T00:00:00
+19:15:00 - 20:20:00 ( 01:05 )
+BSR - Aréna BSR
+    Peewee AA
+=============================
+(42)
+2019-03-12T00:00:00
+18:00:00 - 19:05:00 ( 01:05 )
+BSR - Aréna BSR
+    Peewee AA
