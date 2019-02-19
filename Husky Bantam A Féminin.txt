@@ -191,3 +191,17 @@ St-G - Aréna St-Gilles
 St-G - Aréna St-Gilles
     Husky Bantam A Féminin
     Husky Féminin Peewee C
+=============================
+(29)
+2019-03-05T00:00:00
+19:00:00 - 19:50:00 ( 00:50 )
+CBV - Centre Bruno Verret (glace standard)
+    Husky Bantam A Féminin
+    Husky Féminin Peewee C
+=============================
+(30)
+2019-03-12T00:00:00
+19:00:00 - 19:50:00 ( 00:50 )
+CBV - Centre Bruno Verret (glace standard)
+    Husky Bantam A Féminin
+    Husky Féminin Peewee C
