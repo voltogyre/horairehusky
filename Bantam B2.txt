@@ -134,3 +134,16 @@ BSR - Aréna BSR
 CBV - Centre Bruno Verret (glace standard)
     Bantam B1
     Bantam B2
+=============================
+(22)
+2019-03-07T00:00:00
+20:00:00 - 20:50:00 ( 00:50 )
+BSR - Aréna BSR
+    Bantam B2
+=============================
+(23)
+2019-03-13T00:00:00
+19:30:00 - 20:20:00 ( 00:50 )
+BSR - Aréna BSR
+    Bantam B2
+    As de Québec
