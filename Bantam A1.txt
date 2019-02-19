@@ -160,3 +160,10 @@ CBV - Centre Bruno Verret (glace standard)
 BSR - Aréna BSR
     Bantam A1
     Bantam A2
+=============================
+(26)
+2019-03-14T00:00:00
+19:30:00 - 20:20:00 ( 00:50 )
+CBV - Centre Bruno Verret (glace standard)
+    Bantam A1
+    Bantam A2
