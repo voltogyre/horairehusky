@@ -76,3 +76,10 @@ BSR - Aréna BSR
 BSR - Aréna BSR
     Novice B1 Majeur
     Novice B2 Majeur
+=============================
+(12)
+2019-03-09T00:00:00
+17:30:00 - 18:20:00 ( 00:50 )
+St-Ro - Aréna St-Romuald
+    Novice B1 Majeur
+    Novice B2 Majeur
