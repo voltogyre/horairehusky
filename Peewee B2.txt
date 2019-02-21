@@ -169,3 +169,17 @@ CBV - Centre Bruno Verret (glace standard)
 BSR - Aréna BSR
     Peewee B2
     Bantam B1
+=============================
+(26)
+2019-03-04T00:00:00
+20:00:00 - 20:50:00 ( 00:50 )
+CBV - Centre Bruno Verret (glace standard)
+    Peewee B1
+    Peewee B2
+=============================
+(27)
+2019-03-12T00:00:00
+18:00:00 - 19:20:00 ( 01:20 )
+St-G - Aréna St-Gilles
+    Peewee B1
+    Peewee B2

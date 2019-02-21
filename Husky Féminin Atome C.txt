@@ -165,6 +165,13 @@ BSR - Aréna BSR
     Husky Féminin Atome C
 =============================
 (25)
+2019-03-08T00:00:00
+17:30:00 - 18:50:00 ( 01:20 )
+St-G - Aréna St-Gilles
+    Husky Féminin Atome A
+    Husky Féminin Atome C
+=============================
+(26)
 2019-03-12T00:00:00
 17:00:00 - 17:50:00 ( 00:50 )
 BSR - Aréna BSR

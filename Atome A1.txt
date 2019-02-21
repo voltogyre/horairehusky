@@ -251,3 +251,17 @@ CBVO - Centre Bruno Verret (glace Olympique)
 BSR - Aréna BSR
     Atome A1
     Atome A3
+=============================
+(38)
+2019-03-07T00:00:00
+18:15:00 - 19:20:00 ( 01:05 )
+CBV - Centre Bruno Verret (glace standard)
+    Atome A1
+    Atome A3
+=============================
+(39)
+2019-03-14T00:00:00
+18:15:00 - 19:20:00 ( 01:05 )
+CBV - Centre Bruno Verret (glace standard)
+    Atome A1
+    Peewee A1
