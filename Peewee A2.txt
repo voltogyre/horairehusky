@@ -193,3 +193,10 @@ St-Ro - Aréna St-Romuald
 CBV - Centre Bruno Verret (glace standard)
     Peewee A1
     Peewee A2
+=============================
+(30)
+2019-03-05T00:00:00
+18:00:00 - 19:20:00 ( 01:20 )
+St-G - Aréna St-Gilles
+    Peewee A1
+    Peewee A2

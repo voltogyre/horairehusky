@@ -168,3 +168,10 @@ St-Ro - Aréna St-Romuald
 CBV - Centre Bruno Verret (glace standard)
     Peewee B1
     Peewee B3
+=============================
+(26)
+2019-03-07T00:00:00
+19:00:00 - 19:50:00 ( 00:50 )
+BSR - Aréna BSR
+    Peewee B3
+    Peewee C1
