@@ -72,6 +72,12 @@ CBV - Centre Bruno Verret (glace standard)
     Novice C Féminin Mineur
 =============================
 (11)
+2019-03-08T00:00:00
+17:00:00 - 17:50:00 ( 00:50 )
+BSR - Aréna BSR
+    Novice C Majeur Féminin
+=============================
+(12)
 2019-03-09T00:00:00
 08:00:00 - 09:20:00 ( 01:20 )
 St-Ag - Aréna St-Agapit
