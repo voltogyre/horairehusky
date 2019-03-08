@@ -96,3 +96,10 @@ BSR - Aréna BSR
 St-Ro - Aréna St-Romuald
     Novice B1 Majeur
     Novice B2 Majeur
+=============================
+(15)
+2019-03-15T00:00:00
+17:15:00 - 18:05:00 ( 00:50 )
+CBVO - Centre Bruno Verret (glace Olympique)
+    Novice B1 Majeur
+    Novice B2 Majeur
