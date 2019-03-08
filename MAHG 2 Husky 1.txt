@@ -103,3 +103,21 @@ CBV - Centre Bruno Verret (glace standard)
     MAHG 2 Husky 1
     MAHG 2 Husky 2
     MAHG 2 Husky 3
+=============================
+(12)
+2019-03-23T00:00:00
+10:00:00 - 10:50:00 ( 00:50 )
+CBV - Centre Bruno Verret (glace standard)
+    MAHG 2 Husky 6
+    MAHG 2 Husky 1
+    MAHG 2 Husky 2
+    MAHG 2 Husky 4
+=============================
+(13)
+2019-03-31T00:00:00
+12:30:00 - 13:20:00 ( 00:50 )
+BSR - Aréna BSR
+    MAHG 1 Husky 1
+    MAHG 1 Husky 6
+    MAHG 2 Husky 6
+    MAHG 2 Husky 1
