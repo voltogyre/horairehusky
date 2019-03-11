@@ -177,3 +177,10 @@ St-G - Aréna St-Gilles
 BSR - Aréna BSR
     Husky Féminin Atome A
     Husky Féminin Atome C
+=============================
+(27)
+2019-03-22T00:00:00
+17:30:00 - 18:50:00 ( 01:20 )
+St-G - Aréna St-Gilles
+    Husky Féminin Atome C
+    Novice C Majeur Féminin

@@ -96,3 +96,10 @@ St-Ro - Aréna St-Romuald
 CBVO - Centre Bruno Verret (glace Olympique)
     Novice B1 Majeur
     Novice B2 Majeur
+=============================
+(15)
+2019-03-22T00:00:00
+17:00:00 - 17:50:00 ( 00:50 )
+CBV - Centre Bruno Verret (glace standard)
+    Novice B1 Majeur
+    Novice B2 Majeur
