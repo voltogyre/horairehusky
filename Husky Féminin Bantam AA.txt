@@ -152,3 +152,15 @@ BSR - Aréna BSR
 18:30:00 - 19:35:00 ( 01:05 )
 St-Is - Aréna St-Isidore
     Husky Féminin Bantam AA
+=============================
+(26)
+2019-03-21T00:00:00
+18:30:00 - 19:35:00 ( 01:05 )
+St-Is - Aréna St-Isidore
+    Husky Féminin Bantam AA
+=============================
+(27)
+2019-03-28T00:00:00
+18:30:00 - 19:35:00 ( 01:05 )
+St-Is - Aréna St-Isidore
+    Husky Féminin Bantam AA

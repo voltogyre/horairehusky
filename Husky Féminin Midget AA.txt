@@ -158,3 +158,15 @@ BSR - Aréna BSR
 19:45:00 - 20:50:00 ( 01:05 )
 St-Is - Aréna St-Isidore
     Husky Féminin Midget AA
+=============================
+(27)
+2019-03-21T00:00:00
+19:45:00 - 20:50:00 ( 01:05 )
+St-Is - Aréna St-Isidore
+    Husky Féminin Midget AA
+=============================
+(28)
+2019-03-28T00:00:00
+19:45:00 - 20:50:00 ( 01:05 )
+St-Is - Aréna St-Isidore
+    Husky Féminin Midget AA
