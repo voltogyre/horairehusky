@@ -155,3 +155,9 @@ Hors-glace(25)
 gsse - Grande salle St-Etienne
     Husky-Lotbinière Bantam AA
     Husky-Lotbinière Bantam BB
+=============================
+(26)
+2019-03-19T00:00:00
+19:45:00 - 21:05:00 ( 01:20 )
+CBVO - Centre Bruno Verret (glace Olympique)
+    Husky-Lotbinière Bantam AA
