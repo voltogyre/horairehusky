@@ -164,3 +164,10 @@ CBVO - Centre Bruno Verret (glace Olympique)
 CBV - Centre Bruno Verret (glace standard)
     Husky Bantam A Féminin
     Husky Féminin Peewee C
+=============================
+(25)
+2019-03-19T00:00:00
+19:00:00 - 19:50:00 ( 00:50 )
+CBV - Centre Bruno Verret (glace standard)
+    Husky Bantam A Féminin
+    Husky Féminin Peewee C
