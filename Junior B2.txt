@@ -126,3 +126,10 @@ CBVO - Centre Bruno Verret (glace Olympique)
 21:30:00 - 22:50:00 ( 01:20 )
 BSR - Aréna BSR
     Junior B2
+=============================
+(21)
+2019-03-18T00:00:00
+20:45:00 - 22:05:00 ( 01:20 )
+CBVO - Centre Bruno Verret (glace Olympique)
+    Junior B1
+    Junior B2

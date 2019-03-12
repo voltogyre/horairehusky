@@ -200,3 +200,10 @@ CBV - Centre Bruno Verret (glace standard)
 St-G - Aréna St-Gilles
     Peewee A1
     Peewee A2
+=============================
+(31)
+2019-03-22T00:00:00
+19:00:00 - 19:50:00 ( 00:50 )
+CBV - Centre Bruno Verret (glace standard)
+    Peewee A1
+    Peewee A2
