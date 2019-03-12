@@ -153,3 +153,9 @@ BSR - Aréna BSR
 BSR - Aréna BSR
     Bantam B2
     Bantam B3
+=============================
+(25)
+2019-03-23T00:00:00
+21:00:00 - 21:50:00 ( 00:50 )
+BSR - Aréna BSR
+    Bantam B2
