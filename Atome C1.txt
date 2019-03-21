@@ -215,3 +215,10 @@ St-Ag - Aréna St-Agapit
 CBV - Centre Bruno Verret (glace standard)
     Atome C1
     Atome C2
+=============================
+(33)
+2019-03-26T00:00:00
+17:00:00 - 17:50:00 ( 00:50 )
+CBV - Centre Bruno Verret (glace standard)
+    Atome C1
+    Atome C3

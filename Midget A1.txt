@@ -163,3 +163,9 @@ BSR - Aréna BSR
 BSR - Aréna BSR
     Midget A1
     Midget A2
+=============================
+(27)
+2019-03-25T00:00:00
+19:30:00 - 20:20:00 ( 00:50 )
+BSR - Aréna BSR
+    Midget A1

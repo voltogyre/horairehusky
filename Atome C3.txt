@@ -210,3 +210,10 @@ St-G - Aréna St-Gilles
 BSR - Aréna BSR
     Atome B3
     Atome C3
+=============================
+(32)
+2019-03-26T00:00:00
+17:00:00 - 17:50:00 ( 00:50 )
+CBV - Centre Bruno Verret (glace standard)
+    Atome C1
+    Atome C3
