@@ -220,3 +220,10 @@ CBV - Centre Bruno Verret (glace standard)
 CBV - Centre Bruno Verret (glace standard)
     Atome A2
     Atome A3
+=============================
+(34)
+2019-03-26T00:00:00
+17:00:00 - 17:50:00 ( 00:50 )
+BSR - Aréna BSR
+    Atome A3
+    Atome B2
