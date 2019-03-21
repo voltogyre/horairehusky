@@ -224,3 +224,9 @@ BSR - Aréna BSR
 17:00:00 - 18:20:00 ( 01:20 )
 CBV - Centre Bruno Verret (glace standard)
     Husky Féminin Atome A
+=============================
+(34)
+2019-03-27T00:00:00
+17:00:00 - 18:20:00 ( 01:20 )
+CBV - Centre Bruno Verret (glace standard)
+    Husky Féminin Atome A

@@ -110,3 +110,10 @@ CBV - Centre Bruno Verret (glace standard)
 CBVO - Centre Bruno Verret (glace Olympique)
     Novice B1 Majeur
     Novice B2 Majeur
+=============================
+(17)
+2019-03-28T00:00:00
+18:00:00 - 18:50:00 ( 00:50 )
+BSR - Aréna BSR
+    Novice B1 Majeur
+    Novice B2 Majeur
