@@ -107,3 +107,11 @@ CBVO - Centre Bruno Verret (glace Olympique)
 CBV - Centre Bruno Verret (glace standard)
     Novice A1 Mineur
     Novice A2 Mineur
+=============================
+(14)
+2019-03-29T00:00:00
+17:00:00 - 18:20:00 ( 01:20 )
+CBV - Centre Bruno Verret (glace standard)
+    Novice A1 Mineur
+    Novice A2 Mineur
+    Novice B1 Mineur
