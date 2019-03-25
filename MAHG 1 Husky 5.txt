@@ -156,3 +156,11 @@ CBVO - Centre Bruno Verret (glace Olympique)
     MAHG 1 Husky 2
     MAHG 1 Husky 6
     MAHG 1 Husky 5
+=============================
+(18)
+2019-04-07T00:00:00
+10:15:00 - 11:05:00 ( 00:50 )
+CBVO - Centre Bruno Verret (glace Olympique)
+    MAHG 1 Husky 2
+    MAHG 1 Husky 6
+    MAHG 1 Husky 5
