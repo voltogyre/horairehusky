@@ -201,3 +201,9 @@ St-G - Aréna St-Gilles
 BSR - Aréna BSR
     Peewee B1
     Peewee B2
+=============================
+(31)
+2019-03-28T00:00:00
+18:30:00 - 19:20:00 ( 00:50 )
+St-Is - Aréna St-Isidore
+    Peewee B1
