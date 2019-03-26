@@ -150,10 +150,3 @@ BSR - Aréna BSR
 CBV - Centre Bruno Verret (glace standard)
     Midget B1
     Bantam B1
-=============================
-(25)
-2019-03-28T00:00:00
-20:00:00 - 20:50:00 ( 00:50 )
-BSR - Aréna BSR
-    Midget B1
-    Midget B2
