@@ -165,3 +165,9 @@ St-Is - Aréna St-Isidore
 19:30:00 - 20:50:00 ( 01:20 )
 St-Is - Aréna St-Isidore
     Husky Féminin Bantam AA
+=============================
+(28)
+2019-03-30T00:00:00
+16:30:00 - 17:50:00 ( 01:20 )
+St-Ro - Aréna St-Romuald
+    Husky Féminin Bantam AA
