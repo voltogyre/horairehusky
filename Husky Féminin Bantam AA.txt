@@ -171,3 +171,9 @@ St-Is - Aréna St-Isidore
 16:30:00 - 17:50:00 ( 01:20 )
 St-Ro - Aréna St-Romuald
     Husky Féminin Bantam AA
+=============================
+(29)
+2019-04-07T00:00:00
+13:30:00 - 14:50:00 ( 01:20 )
+CBV - Centre Bruno Verret (glace standard)
+    Husky Féminin Bantam AA
