@@ -125,14 +125,6 @@ CBVO - Centre Bruno Verret (glace Olympique)
     MAHG 2 Husky 5
 =============================
 (14)
-2019-03-30T00:00:00
-06:45:00 - 07:35:00 ( 00:50 )
-CBVO - Centre Bruno Verret (glace Olympique)
-    MAHG 2 Husky 6
-    MAHG 2 Husky 3
-    MAHG 2 Husky 5
-=============================
-(15)
 2019-03-31T00:00:00
 11:30:00 - 12:20:00 ( 00:50 )
 BSR - Aréna BSR
@@ -141,7 +133,7 @@ BSR - Aréna BSR
     MAHG 2 Husky 4
     MAHG 2 Husky 5
 =============================
-(16)
+(15)
 2019-04-06T00:00:00
 08:15:00 - 09:05:00 ( 00:50 )
 CBVO - Centre Bruno Verret (glace Olympique)
@@ -150,7 +142,7 @@ CBVO - Centre Bruno Verret (glace Olympique)
     MAHG 2 Husky 2
     MAHG 2 Husky 5
 =============================
-(17)
+(16)
 2019-04-07T00:00:00
 11:15:00 - 12:05:00 ( 00:50 )
 CBVO - Centre Bruno Verret (glace Olympique)
