@@ -207,3 +207,9 @@ BSR - Aréna BSR
 18:30:00 - 19:20:00 ( 00:50 )
 St-Is - Aréna St-Isidore
     Peewee B1
+=============================
+(32)
+2019-04-01T00:00:00
+19:00:00 - 19:50:00 ( 00:50 )
+CBV - Centre Bruno Verret (glace standard)
+    Peewee B1
