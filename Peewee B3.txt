@@ -189,3 +189,10 @@ St-G - Aréna St-Gilles
 CBV - Centre Bruno Verret (glace standard)
     Peewee B3
     Peewee C2
+=============================
+(29)
+2019-04-03T00:00:00
+19:30:00 - 20:50:00 ( 01:20 )
+BSR - Aréna BSR
+    Peewee B2
+    Peewee B3

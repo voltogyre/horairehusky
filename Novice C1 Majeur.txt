@@ -116,3 +116,10 @@ St-Ag - Aréna St-Agapit
 BSR - Aréna BSR
     Novice C1 Majeur
     Novice C2 Majeur
+=============================
+(18)
+2019-04-05T00:00:00
+17:00:00 - 18:05:00 ( 01:05 )
+CBVO - Centre Bruno Verret (glace Olympique)
+    Novice C1 Majeur
+    Novice C Majeur Féminin

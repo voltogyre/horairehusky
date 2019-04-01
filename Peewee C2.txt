@@ -205,3 +205,10 @@ BSR - Aréna BSR
 CBV - Centre Bruno Verret (glace standard)
     Peewee B3
     Peewee C2
+=============================
+(31)
+2019-04-05T00:00:00
+19:45:00 - 21:05:00 ( 01:20 )
+CBVO - Centre Bruno Verret (glace Olympique)
+    Peewee C1
+    Peewee C2
