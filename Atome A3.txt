@@ -239,3 +239,9 @@ CBVO - Centre Bruno Verret (glace Olympique)
 17:00:00 - 17:50:00 ( 00:50 )
 CBV - Centre Bruno Verret (glace standard)
     Atome A3
+=============================
+(37)
+2019-04-07T00:00:00
+10:00:00 - 10:50:00 ( 00:50 )
+CBV - Centre Bruno Verret (glace standard)
+    Atome A3

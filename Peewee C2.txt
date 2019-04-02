@@ -212,3 +212,9 @@ CBV - Centre Bruno Verret (glace standard)
 CBVO - Centre Bruno Verret (glace Olympique)
     Peewee C1
     Peewee C2
+=============================
+(32)
+2019-04-06T00:00:00
+17:30:00 - 18:20:00 ( 00:50 )
+St-Ro - Aréna St-Romuald
+    Peewee C2

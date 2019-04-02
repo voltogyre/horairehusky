@@ -197,3 +197,10 @@ St-G - Aréna St-Gilles
 17:00:00 - 17:50:00 ( 00:50 )
 CBV - Centre Bruno Verret (glace standard)
     Husky Féminin Atome C
+=============================
+(30)
+2019-04-07T00:00:00
+18:15:00 - 19:05:00 ( 00:50 )
+CBVO - Centre Bruno Verret (glace Olympique)
+    Husky Féminin Atome A
+    Husky Féminin Atome C

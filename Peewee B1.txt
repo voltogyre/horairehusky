@@ -213,3 +213,9 @@ St-Is - Aréna St-Isidore
 19:00:00 - 19:50:00 ( 00:50 )
 CBV - Centre Bruno Verret (glace standard)
     Peewee B1
+=============================
+(33)
+2019-04-07T00:00:00
+17:00:00 - 17:50:00 ( 00:50 )
+CBV - Centre Bruno Verret (glace standard)
+    Peewee B1

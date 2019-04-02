@@ -169,3 +169,9 @@ BSR - Aréna BSR
 19:30:00 - 20:20:00 ( 00:50 )
 BSR - Aréna BSR
     Midget A1
+=============================
+(28)
+2019-04-07T00:00:00
+16:00:00 - 16:50:00 ( 00:50 )
+CBV - Centre Bruno Verret (glace standard)
+    Midget A1

@@ -117,3 +117,10 @@ CBVO - Centre Bruno Verret (glace Olympique)
 CBVO - Centre Bruno Verret (glace Olympique)
     Novice C1 Majeur
     Novice C Majeur Féminin
+=============================
+(18)
+2019-04-07T00:00:00
+08:00:00 - 08:50:00 ( 00:50 )
+CBV - Centre Bruno Verret (glace standard)
+    Novice C1 Majeur
+    Novice C Majeur Féminin
