@@ -170,9 +170,3 @@ BSR - Aréna BSR
 20:00:00 - 20:50:00 ( 00:50 )
 CBV - Centre Bruno Verret (glace standard)
     Midget A2
-=============================
-(28)
-2019-04-06T00:00:00
-19:30:00 - 20:20:00 ( 00:50 )
-St-Ro - Aréna St-Romuald
-    Midget A2
