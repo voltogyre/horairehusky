@@ -136,3 +136,10 @@ CBV - Centre Bruno Verret (glace standard)
 15:00:00 - 15:50:00 ( 00:50 )
 CBV - Centre Bruno Verret (glace standard)
     Novice A1 Majeur
+=============================
+(21)
+2019-04-10T00:00:00
+17:00:00 - 17:50:00 ( 00:50 )
+CBV - Centre Bruno Verret (glace standard)
+    Atome A3
+    Novice A1 Majeur
