@@ -173,3 +173,9 @@ St-Ag - Aréna St-Agapit
 20:30:00 - 21:50:00 ( 01:20 )
 BSR - Aréna BSR
     Husky-Lotbinière Bantam AA
+=============================
+(29)
+2019-04-13T00:00:00
+13:30:00 - 14:50:00 ( 01:20 )
+CBV - Centre Bruno Verret (glace standard)
+    Husky-Lotbinière Bantam AA
