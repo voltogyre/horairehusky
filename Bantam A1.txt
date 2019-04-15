@@ -199,3 +199,9 @@ CBV - Centre Bruno Verret (glace standard)
 18:30:00 - 19:20:00 ( 00:50 )
 St-Ro - Aréna St-Romuald
     Bantam A1
+=============================
+(32)
+2019-04-16T00:00:00
+19:30:00 - 20:20:00 ( 00:50 )
+St-Ag - Aréna St-Agapit
+    Bantam A1

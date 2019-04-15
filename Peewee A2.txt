@@ -226,3 +226,10 @@ CBV - Centre Bruno Verret (glace standard)
 CBVO - Centre Bruno Verret (glace Olympique)
     Atome B3
     Peewee A2
+=============================
+(35)
+2019-04-17T00:00:00
+20:00:00 - 20:50:00 ( 00:50 )
+St-Ag - Aréna St-Agapit
+    Peewee B2
+    Peewee A2

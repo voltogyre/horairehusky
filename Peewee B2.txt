@@ -209,3 +209,10 @@ BSR - Aréna BSR
 16:30:00 - 17:20:00 ( 00:50 )
 St-Ro - Aréna St-Romuald
     Peewee B2
+=============================
+(32)
+2019-04-17T00:00:00
+20:00:00 - 20:50:00 ( 00:50 )
+St-Ag - Aréna St-Agapit
+    Peewee B2
+    Peewee A2
