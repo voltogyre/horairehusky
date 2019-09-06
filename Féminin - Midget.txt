@@ -2,37 +2,31 @@
                         Féminin - Midget
 ************************************************************
 =============================
-Portes Ouvertes(1)
-2019-08-31T00:00:00
-17:00:00 - 17:50:00 ( 00:50 )
-CBV - Centre Bruno Verret (glace standard)
-    Féminin - Midget
-=============================
-(2)
+(1)
 2019-09-06T00:00:00
 20:00:00 - 20:50:00 ( 00:50 )
 St-Ro - Aréna St-Romuald
     Féminin - Midget
 =============================
-(3)
+(2)
 2019-09-07T00:00:00
 17:30:00 - 18:50:00 ( 01:20 )
 CBV - Centre Bruno Verret (glace standard)
     Féminin - Midget
 =============================
-(4)
+(3)
 2019-09-12T00:00:00
 19:45:00 - 20:50:00 ( 01:05 )
 St-Is - Aréna St-Isidore
     Féminin - Midget
 =============================
-(5)
+(4)
 2019-09-15T00:00:00
 18:45:00 - 20:05:00 ( 01:20 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Féminin - Midget
 =============================
-(6)
+(5)
 2019-09-21T00:00:00
 19:00:00 - 20:20:00 ( 01:20 )
 CBV - Centre Bruno Verret (glace standard)
