@@ -1,0 +1,59 @@
+************************************************************
+                        PeeWee - Noir
+************************************************************
+=============================
+PeeWee - Vert vs Noir(1)
+2019-09-05T00:00:00
+18:30:00 - 19:50:00 ( 01:20 )
+CBV - Centre Bruno Verret (glace standard)
+    PeeWee - Vert
+    PeeWee - Noir
+=============================
+PeeWee - Rouge vs Noir(2)
+2019-09-06T00:00:00
+17:45:00 - 19:05:00 ( 01:20 )
+CBVO - Centre Bruno Verret (glace Olympique)
+    PeeWee - Rouge
+    PeeWee - Noir
+=============================
+PeeWee - Gris vs Noir(3)
+2019-09-07T00:00:00
+16:50:00 - 17:50:00 ( 01:00 )
+St-Ro - Aréna St-Romuald
+    PeeWee - Gris
+    PeeWee - Noir
+=============================
+(4)
+2019-09-10T00:00:00
+19:00:00 - 19:50:00 ( 00:50 )
+CBV - Centre Bruno Verret (glace standard)
+    PeeWee - Vert
+    PeeWee - Noir
+=============================
+(5)
+2019-09-12T00:00:00
+19:30:00 - 20:50:00 ( 01:20 )
+St-Ro - Aréna St-Romuald
+    PeeWee - Noir
+    PeeWee - Jaune
+=============================
+(6)
+2019-09-14T00:00:00
+16:30:00 - 17:50:00 ( 01:20 )
+CBV - Centre Bruno Verret (glace standard)
+    PeeWee - Noir
+    PeeWee - Blanc
+=============================
+(7)
+2019-09-18T00:00:00
+19:00:00 - 20:20:00 ( 01:20 )
+CBV - Centre Bruno Verret (glace standard)
+    PeeWee - Noir
+    PeeWee - Blanc
+=============================
+(8)
+2019-09-22T00:00:00
+17:15:00 - 18:35:00 ( 01:20 )
+CBVO - Centre Bruno Verret (glace Olympique)
+    PeeWee - Noir
+    PeeWee - Blanc

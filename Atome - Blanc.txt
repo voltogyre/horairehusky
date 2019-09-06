@@ -1,0 +1,38 @@
+************************************************************
+                        Atome - Blanc
+************************************************************
+=============================
+(1)
+2019-09-11T00:00:00
+18:00:00 - 18:50:00 ( 00:50 )
+CBV - Centre Bruno Verret (glace standard)
+    Atome - Bourgogne
+    Atome - Blanc
+=============================
+(2)
+2019-09-13T00:00:00
+17:15:00 - 18:05:00 ( 00:50 )
+CBVO - Centre Bruno Verret (glace Olympique)
+    Atome - Noir
+    Atome - Blanc
+=============================
+(3)
+2019-09-18T00:00:00
+17:00:00 - 17:50:00 ( 00:50 )
+CBV - Centre Bruno Verret (glace standard)
+    Atome - Jaune
+    Atome - Blanc
+=============================
+(4)
+2019-09-20T00:00:00
+17:15:00 - 18:05:00 ( 00:50 )
+CBVO - Centre Bruno Verret (glace Olympique)
+    Atome - Bourgogne
+    Atome - Blanc
+=============================
+(5)
+2019-09-21T00:00:00
+07:00:00 - 07:50:00 ( 00:50 )
+CBV - Centre Bruno Verret (glace standard)
+    Féminin - Atome
+    Atome - Blanc

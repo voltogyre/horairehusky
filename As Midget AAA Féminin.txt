@@ -31,3 +31,15 @@ CBVO - Centre Bruno Verret (glace Olympique)
 17:00:00 - 18:20:00 ( 01:20 )
 St-Ro - Aréna St-Romuald
     As Midget AAA Féminin
+=============================
+(6)
+2019-08-31T00:00:00
+17:30:00 - 18:50:00 ( 01:20 )
+St-Ro - Aréna St-Romuald
+    As Midget AAA Féminin
+=============================
+(7)
+2019-09-01T00:00:00
+14:30:00 - 15:50:00 ( 01:20 )
+St-Ro - Aréna St-Romuald
+    As Midget AAA Féminin

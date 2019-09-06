@@ -1,0 +1,73 @@
+************************************************************
+                        Féminin - Bantam
+************************************************************
+=============================
+Portes Ouvertes(1)
+2019-08-31T00:00:00
+16:00:00 - 16:50:00 ( 00:50 )
+CBV - Centre Bruno Verret (glace standard)
+    Féminin - Bantam
+=============================
+Portes Ouvertes(2)
+2019-09-01T00:00:00
+15:00:00 - 15:50:00 ( 00:50 )
+CBV - Centre Bruno Verret (glace standard)
+    Féminin - Bantam
+=============================
+Portes Ouvertes(3)
+2019-09-01T00:00:00
+16:00:00 - 16:50:00 ( 00:50 )
+CBV - Centre Bruno Verret (glace standard)
+    Féminin - Bantam
+=============================
+(4)
+2019-09-06T00:00:00
+19:00:00 - 19:50:00 ( 00:50 )
+St-Ro - Aréna St-Romuald
+    Féminin - Bantam
+=============================
+(5)
+2019-09-07T00:00:00
+16:00:00 - 17:20:00 ( 01:20 )
+CBV - Centre Bruno Verret (glace standard)
+    Féminin - Bantam
+=============================
+(6)
+2019-09-12T00:00:00
+18:30:00 - 19:35:00 ( 01:05 )
+St-Is - Aréna St-Isidore
+    Féminin - Bantam
+=============================
+(7)
+2019-09-15T00:00:00
+17:15:00 - 18:35:00 ( 01:20 )
+CBVO - Centre Bruno Verret (glace Olympique)
+    Féminin - Bantam
+=============================
+(8)
+2019-09-17T00:00:00
+19:15:00 - 20:05:00 ( 00:50 )
+CBVO - Centre Bruno Verret (glace Olympique)
+    Féminin - Bantam
+    Bantam - Gris
+=============================
+(9)
+2019-09-20T00:00:00
+19:15:00 - 20:05:00 ( 00:50 )
+CBVO - Centre Bruno Verret (glace Olympique)
+    Féminin - Bantam
+    Bantam - Rouge
+=============================
+(10)
+2019-09-20T00:00:00
+20:15:00 - 21:05:00 ( 00:50 )
+CBVO - Centre Bruno Verret (glace Olympique)
+    Féminin - Bantam
+    Bantam - Noir
+=============================
+(11)
+2019-09-21T00:00:00
+16:00:00 - 17:20:00 ( 01:20 )
+CBV - Centre Bruno Verret (glace standard)
+    Féminin - Bantam
+    Bantam - Vert
