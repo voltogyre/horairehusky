@@ -2,49 +2,35 @@
                         Atome - Jaune
 ************************************************************
 =============================
-Atome - Vert vs Jaune(1)
-2019-09-03T00:00:00
-18:30:00 - 19:50:00 ( 01:20 )
-St-Ro - Aréna St-Romuald
-    Atome - Vert
-    Atome - Jaune
-=============================
-Atome - Gris vs Jaune(2)
-2019-09-04T00:00:00
-17:00:00 - 18:20:00 ( 01:20 )
-CBV - Centre Bruno Verret (glace standard)
-    Atome - Gris
-    Atome - Jaune
-=============================
-Atome - Bleu vs Jaune(3)
+Atome - Bleu vs Jaune(1)
 2019-09-07T00:00:00
 11:45:00 - 13:05:00 ( 01:20 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Atome - Bleu
     Atome - Jaune
 =============================
-(4)
+(2)
 2019-09-11T00:00:00
 17:00:00 - 17:50:00 ( 00:50 )
 CBV - Centre Bruno Verret (glace standard)
     Atome - Noir
     Atome - Jaune
 =============================
-(5)
+(3)
 2019-09-13T00:00:00
 18:15:00 - 19:05:00 ( 00:50 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Atome - Jaune
     Atome - Bourgogne
 =============================
-(6)
+(4)
 2019-09-18T00:00:00
 17:00:00 - 17:50:00 ( 00:50 )
 CBV - Centre Bruno Verret (glace standard)
     Atome - Jaune
     Atome - Blanc
 =============================
-(7)
+(5)
 2019-09-20T00:00:00
 18:15:00 - 19:05:00 ( 00:50 )
 CBVO - Centre Bruno Verret (glace Olympique)
