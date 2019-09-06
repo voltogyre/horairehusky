@@ -3,38 +3,68 @@
 ************************************************************
 =============================
 (1)
+2018-09-22T00:00:00
+08:00:00 - 09:20:00 ( 01:20 )
+St-Ag - Aréna St-Agapit
+    Féminin - PeeWee
+=============================
+(2)
+2018-09-26T00:00:00
+19:00:00 - 19:50:00 ( 00:50 )
+CBV - Centre Bruno Verret (glace standard)
+    Féminin - PeeWee
+=============================
+(3)
+2018-09-29T00:00:00
+13:45:00 - 14:35:00 ( 00:50 )
+CBVO - Centre Bruno Verret (glace Olympique)
+    Féminin - PeeWee
+=============================
+Portes Ouvertes(4)
+2019-08-31T00:00:00
+15:00:00 - 15:50:00 ( 00:50 )
+CBV - Centre Bruno Verret (glace standard)
+    Féminin - PeeWee
+=============================
+Portes Ouvertes(5)
+2019-09-01T00:00:00
+14:00:00 - 14:50:00 ( 00:50 )
+CBV - Centre Bruno Verret (glace standard)
+    Féminin - PeeWee
+=============================
+(6)
 2019-09-06T00:00:00
 18:00:00 - 18:50:00 ( 00:50 )
 St-Ro - Aréna St-Romuald
     Féminin - PeeWee
 =============================
-(2)
+(7)
 2019-09-07T00:00:00
 14:30:00 - 15:50:00 ( 01:20 )
 CBV - Centre Bruno Verret (glace standard)
     Féminin - PeeWee
 =============================
-(3)
+(8)
 2019-09-15T00:00:00
 15:45:00 - 17:05:00 ( 01:20 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Féminin - PeeWee
 =============================
-(4)
+(9)
 2019-09-19T00:00:00
 19:00:00 - 20:20:00 ( 01:20 )
 CBV - Centre Bruno Verret (glace standard)
     Féminin - PeeWee
     PeeWee - Rouge
 =============================
-(5)
+(10)
 2019-09-21T00:00:00
 12:45:00 - 14:05:00 ( 01:20 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Féminin - PeeWee
     PeeWee - Bleu
 =============================
-(6)
+(11)
 2019-09-21T00:00:00
 14:15:00 - 15:35:00 ( 01:20 )
 CBVO - Centre Bruno Verret (glace Olympique)

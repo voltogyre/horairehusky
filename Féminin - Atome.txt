@@ -3,52 +3,100 @@
 ************************************************************
 =============================
 (1)
+2018-09-14T00:00:00
+19:00:00 - 19:50:00 ( 00:50 )
+BSR - Aréna BSR
+    Féminin - Atome
+=============================
+(2)
+2018-09-15T00:00:00
+17:00:00 - 18:20:00 ( 01:20 )
+BSR - Aréna BSR
+    Féminin - Atome
+=============================
+(3)
+2018-09-18T00:00:00
+18:00:00 - 19:20:00 ( 01:20 )
+St-G - Aréna St-Gilles
+    Féminin - Atome
+=============================
+(4)
+2018-09-23T00:00:00
+12:00:00 - 13:20:00 ( 01:20 )
+CBV - Centre Bruno Verret (glace standard)
+    Féminin - Atome
+=============================
+(5)
+2018-09-26T00:00:00
+18:00:00 - 18:50:00 ( 00:50 )
+CBV - Centre Bruno Verret (glace standard)
+    Féminin - Atome
+=============================
+(6)
+2018-09-29T00:00:00
+17:00:00 - 18:20:00 ( 01:20 )
+St-Ro - Aréna St-Romuald
+    Féminin - Atome
+=============================
+Portes Ouvertes(7)
+2019-08-31T00:00:00
+14:00:00 - 14:50:00 ( 00:50 )
+CBV - Centre Bruno Verret (glace standard)
+    Féminin - Atome
+=============================
+Portes Ouvertes(8)
+2019-09-01T00:00:00
+13:00:00 - 13:50:00 ( 00:50 )
+CBV - Centre Bruno Verret (glace standard)
+    Féminin - Atome
+=============================
+(9)
 2019-09-06T00:00:00
 17:00:00 - 17:50:00 ( 00:50 )
 St-Ro - Aréna St-Romuald
     Féminin - Atome
 =============================
-(2)
+(10)
 2019-09-07T00:00:00
 13:00:00 - 14:20:00 ( 01:20 )
 CBV - Centre Bruno Verret (glace standard)
     Féminin - Atome
 =============================
-(3)
+(11)
 2019-09-14T00:00:00
 07:00:00 - 07:50:00 ( 00:50 )
 CBV - Centre Bruno Verret (glace standard)
     Féminin - Atome
 =============================
-(4)
+(12)
 2019-09-18T00:00:00
 18:00:00 - 18:50:00 ( 00:50 )
 CBV - Centre Bruno Verret (glace standard)
     Féminin - Atome
     Atome - Bourgogne
 =============================
-(5)
+(13)
 2019-09-19T00:00:00
 17:00:00 - 17:50:00 ( 00:50 )
 CBV - Centre Bruno Verret (glace standard)
     Féminin - Atome
     Atome - Rouge
 =============================
-(6)
+(14)
 2019-09-20T00:00:00
 18:15:00 - 19:05:00 ( 00:50 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Féminin - Atome
     Atome - Jaune
 =============================
-(7)
+(15)
 2019-09-21T00:00:00
 07:00:00 - 07:50:00 ( 00:50 )
 CBV - Centre Bruno Verret (glace standard)
     Féminin - Atome
     Atome - Blanc
 =============================
-(8)
+(16)
 2019-09-22T00:00:00
 06:45:00 - 08:05:00 ( 01:20 )
 CBVO - Centre Bruno Verret (glace Olympique)
