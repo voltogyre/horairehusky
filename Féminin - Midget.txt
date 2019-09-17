@@ -21,14 +21,13 @@ St-Is - Aréna St-Isidore
     Féminin - Midget
 =============================
 (4)
+2019-09-14T00:00:00
+20:30:00 - 21:50:00 ( 01:20 )
+St-Ro - Aréna St-Romuald
+    Féminin - Midget
+=============================
+(5)
 2019-09-15T00:00:00
 18:45:00 - 20:05:00 ( 01:20 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Féminin - Midget
-=============================
-(5)
-2019-09-21T00:00:00
-19:00:00 - 20:20:00 ( 01:20 )
-CBV - Centre Bruno Verret (glace standard)
-    Féminin - Midget
-    Midget - Gris

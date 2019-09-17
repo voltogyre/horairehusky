@@ -17,15 +17,29 @@ CBVO - Centre Bruno Verret (glace Olympique)
     Atome - Bourgogne
 =============================
 (3)
-2019-09-18T00:00:00
-18:00:00 - 18:50:00 ( 00:50 )
-CBV - Centre Bruno Verret (glace standard)
-    Féminin - Atome
+2019-09-14T00:00:00
+17:30:00 - 18:20:00 ( 00:50 )
+Lauzon - Aréna Lauzon / André Lacroix
+    Atome - Noir
     Atome - Bourgogne
 =============================
 (4)
-2019-09-20T00:00:00
-17:15:00 - 18:05:00 ( 00:50 )
-CBVO - Centre Bruno Verret (glace Olympique)
+2019-09-19T00:00:00
+17:30:00 - 18:50:00 ( 01:20 )
+CBV - Centre Bruno Verret (glace standard)
     Atome - Bourgogne
     Atome - Blanc
+=============================
+(5)
+2019-09-20T00:00:00
+18:45:00 - 20:05:00 ( 01:20 )
+CBVO - Centre Bruno Verret (glace Olympique)
+    Féminin - Atome C
+    Atome - Bourgogne
+=============================
+(6)
+2019-09-21T00:00:00
+16:00:00 - 17:20:00 ( 01:20 )
+CBV - Centre Bruno Verret (glace standard)
+    Atome - Jaune
+    Atome - Bourgogne

@@ -1,0 +1,45 @@
+************************************************************
+                        Féminin - PeeWee C
+************************************************************
+=============================
+(1)
+2019-09-17T00:00:00
+18:00:00 - 19:20:00 ( 01:20 )
+St-G - Aréna St-Gilles
+    Féminin - PeeWee AA
+    Féminin - PeeWee C
+=============================
+(2)
+2019-09-19T00:00:00
+19:30:00 - 20:50:00 ( 01:20 )
+St-Ro - Aréna St-Romuald
+    Féminin - PeeWee C
+    PeeWee - Noir
+=============================
+(3)
+2019-09-21T00:00:00
+14:15:00 - 15:35:00 ( 01:20 )
+CBVO - Centre Bruno Verret (glace Olympique)
+    Féminin - PeeWee C
+    PeeWee - Blanc
+=============================
+(4)
+2019-09-24T00:00:00
+18:00:00 - 19:20:00 ( 01:20 )
+St-G - Aréna St-Gilles
+    Féminin - Bantam A
+    Féminin - PeeWee C
+=============================
+(5)
+2019-09-27T00:00:00
+19:15:00 - 20:05:00 ( 00:50 )
+CBVO - Centre Bruno Verret (glace Olympique)
+    Féminin - PeeWee C
+    PeeWee C1
+=============================
+(6)
+2019-09-29T00:00:00
+16:45:00 - 17:35:00 ( 00:50 )
+CBVO - Centre Bruno Verret (glace Olympique)
+    Féminin - PeeWee C
+    PeeWee C2

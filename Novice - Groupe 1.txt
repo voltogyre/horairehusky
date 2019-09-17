@@ -15,24 +15,36 @@ CBV - Centre Bruno Verret (glace standard)
     Novice - Groupe 1
 =============================
 (3)
+2019-09-14T00:00:00
+12:30:00 - 13:20:00 ( 00:50 )
+Lauzon - Aréna Lauzon / André Lacroix
+    Novice - Groupe 1
+=============================
+(4)
 2019-09-15T00:00:00
 14:00:00 - 14:50:00 ( 00:50 )
 CBV - Centre Bruno Verret (glace standard)
     Novice - Groupe 1
 =============================
-(4)
+(5)
 2019-09-21T00:00:00
 09:45:00 - 10:35:00 ( 00:50 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Novice - Groupe 1
 =============================
-(5)
+(6)
+2019-09-22T00:00:00
+13:30:00 - 14:20:00 ( 00:50 )
+St-Ro - Aréna St-Romuald
+    Novice - Groupe 1
+=============================
+(7)
 2019-09-27T00:00:00
 18:15:00 - 19:05:00 ( 00:50 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Novice - Groupe 1
 =============================
-(6)
+(8)
 2019-09-28T00:00:00
 08:45:00 - 09:35:00 ( 00:50 )
 CBVO - Centre Bruno Verret (glace Olympique)
