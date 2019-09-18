@@ -17,15 +17,7 @@ St-Ro - Aréna St-Romuald
     Junior B3
 =============================
 (3)
-2019-09-24T00:00:00
-21:30:00 - 22:50:00 ( 01:20 )
-St-Ro - Aréna St-Romuald
-    Junior B2
-    Junior B3
-=============================
-(4)
 2019-09-25T00:00:00
 21:30:00 - 22:50:00 ( 01:20 )
 St-Ro - Aréna St-Romuald
-    Junior B1
     Junior B3
