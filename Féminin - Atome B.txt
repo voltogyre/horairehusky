@@ -34,5 +34,5 @@ St-G - Aréna St-Gilles
 2019-09-28T00:00:00
 08:00:00 - 09:20:00 ( 01:20 )
 St-Ag - Aréna St-Agapit
-    Atome A1
+    Atome B2
     Féminin - Atome B

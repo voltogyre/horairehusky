@@ -11,13 +11,14 @@ CBV - Centre Bruno Verret (glace standard)
 =============================
 (2)
 2019-09-27T00:00:00
-18:30:00 - 19:50:00 ( 01:20 )
+17:00:00 - 18:20:00 ( 01:20 )
 St-Ro - Aréna St-Romuald
     Atome B1
     Atome B2
 =============================
 (3)
 2019-09-28T00:00:00
-12:30:00 - 13:50:00 ( 01:20 )
-Lauzon - Aréna Lauzon / André Lacroix
+08:00:00 - 09:20:00 ( 01:20 )
+St-Ag - Aréna St-Agapit
     Atome B2
+    Féminin - Atome B
