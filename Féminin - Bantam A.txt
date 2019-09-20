@@ -21,9 +21,3 @@ St-Ro - Aréna St-Romuald
 St-G - Aréna St-Gilles
     Féminin - Bantam A
     Féminin - PeeWee C
-=============================
-(4)
-2019-09-27T00:00:00
-20:00:00 - 20:50:00 ( 00:50 )
-St-Ro - Aréna St-Romuald
-    Féminin - Bantam A
