@@ -32,3 +32,33 @@ CBV - Centre Bruno Verret (glace standard)
 18:45:00 - 20:05:00 ( 01:20 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Féminin - Midget AA
+=============================
+(6)
+2019-10-03T00:00:00
+19:15:00 - 20:20:00 ( 01:05 )
+St-Is - Aréna St-Isidore
+    Féminin - Midget AA
+=============================
+(7)
+2019-10-10T00:00:00
+19:15:00 - 20:20:00 ( 01:05 )
+St-Is - Aréna St-Isidore
+    Féminin - Midget AA
+=============================
+(8)
+2019-10-17T00:00:00
+19:15:00 - 20:20:00 ( 01:05 )
+St-Is - Aréna St-Isidore
+    Féminin - Midget AA
+=============================
+(9)
+2019-10-24T00:00:00
+19:15:00 - 20:20:00 ( 01:05 )
+St-Is - Aréna St-Isidore
+    Féminin - Midget AA
+=============================
+(10)
+2019-10-31T00:00:00
+19:15:00 - 20:20:00 ( 01:05 )
+St-Is - Aréna St-Isidore
+    Féminin - Midget AA

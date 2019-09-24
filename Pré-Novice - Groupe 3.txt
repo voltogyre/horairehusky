@@ -37,3 +37,15 @@ CBVO - Centre Bruno Verret (glace Olympique)
 11:30:00 - 12:20:00 ( 00:50 )
 St-Ro - Aréna St-Romuald
     Pré-Novice - Groupe 3
+=============================
+(7)
+2019-10-13T00:00:00
+13:00:00 - 13:50:00 ( 00:50 )
+CBV - Centre Bruno Verret (glace standard)
+    Pré-Novice - Groupe 3
+=============================
+(8)
+2019-10-27T00:00:00
+14:00:00 - 14:50:00 ( 00:50 )
+CBV - Centre Bruno Verret (glace standard)
+    Pré-Novice - Groupe 3

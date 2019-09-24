@@ -49,3 +49,15 @@ CBVO - Centre Bruno Verret (glace Olympique)
 07:00:00 - 08:20:00 ( 01:20 )
 St-G - Aréna St-Gilles
     Novice - Groupe 3
+=============================
+(9)
+2019-10-06T00:00:00
+14:00:00 - 14:50:00 ( 00:50 )
+CBV - Centre Bruno Verret (glace standard)
+    Novice - Groupe 3
+=============================
+(10)
+2019-10-20T00:00:00
+12:00:00 - 12:50:00 ( 00:50 )
+CBV - Centre Bruno Verret (glace standard)
+    Novice - Groupe 3
