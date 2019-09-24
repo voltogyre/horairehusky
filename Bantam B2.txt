@@ -21,3 +21,17 @@ Lauzon - Aréna Lauzon / André Lacroix
 Lauzon - Aréna Lauzon / André Lacroix
     Bantam B2
     Bantam B3
+=============================
+(4)
+2019-09-29T00:00:00
+17:30:00 - 18:05:00 ( 00:35 )
+St-Ro - Aréna St-Romuald
+    Bantam B2
+    Bantam B3
+=============================
+(5)
+2019-09-29T00:00:00
+18:40:00 - 19:20:00 ( 00:40 )
+St-Ro - Aréna St-Romuald
+    Bantam B1
+    Bantam B2
