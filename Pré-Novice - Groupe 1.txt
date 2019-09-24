@@ -39,12 +39,36 @@ CBVO - Centre Bruno Verret (glace Olympique)
     Pré-Novice - Groupe 1
 =============================
 (7)
+2019-10-12T00:00:00
+10:45:00 - 11:35:00 ( 00:50 )
+CBVO - Centre Bruno Verret (glace Olympique)
+    Pré-Novice - Groupe 1
+=============================
+(8)
+2019-10-12T00:00:00
+11:45:00 - 12:35:00 ( 00:50 )
+CBVO - Centre Bruno Verret (glace Olympique)
+    Pré-Novice - Groupe 1
+=============================
+(9)
 2019-10-13T00:00:00
 12:00:00 - 12:50:00 ( 00:50 )
 CBV - Centre Bruno Verret (glace standard)
     Pré-Novice - Groupe 1
 =============================
-(8)
+(10)
+2019-10-19T00:00:00
+06:45:00 - 07:35:00 ( 00:50 )
+CBVO - Centre Bruno Verret (glace Olympique)
+    Pré-Novice - Groupe 1
+=============================
+(11)
+2019-10-26T00:00:00
+11:45:00 - 12:35:00 ( 00:50 )
+CBVO - Centre Bruno Verret (glace Olympique)
+    Pré-Novice - Groupe 1
+=============================
+(12)
 2019-10-27T00:00:00
 13:00:00 - 13:50:00 ( 00:50 )
 CBV - Centre Bruno Verret (glace standard)
