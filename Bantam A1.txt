@@ -13,7 +13,7 @@ CBV - Centre Bruno Verret (glace standard)
 16:30:00 - 17:15:00 ( 00:45 )
 Lauzon - Aréna Lauzon / André Lacroix
     Bantam A1
-    BANTAM A3
+    Bantam A3
 =============================
 (3)
 2019-09-28T00:00:00
@@ -25,6 +25,13 @@ Lauzon - Aréna Lauzon / André Lacroix
 Pratique Technique(4)
 2019-09-30T00:00:00
 20:00:00 - 20:50:00 ( 00:50 )
+CBV - Centre Bruno Verret (glace standard)
+    Bantam A1
+    Bantam A2
+=============================
+(5)
+2019-10-09T00:00:00
+19:00:00 - 20:20:00 ( 01:20 )
 CBV - Centre Bruno Verret (glace standard)
     Bantam A1
     Bantam A2

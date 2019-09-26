@@ -15,3 +15,17 @@ St-Ro - Aréna St-Romuald
 CBVO - Centre Bruno Verret (glace Olympique)
     PeeWee C1
     PeeWee C2
+=============================
+Pratique Technique(3)
+2019-09-30T00:00:00
+19:30:00 - 20:20:00 ( 00:50 )
+St-Ro - Aréna St-Romuald
+    PeeWee C1
+    PeeWee C2
+=============================
+(4)
+2019-10-08T00:00:00
+19:00:00 - 19:50:00 ( 00:50 )
+CBV - Centre Bruno Verret (glace standard)
+    PeeWee C1
+    PeeWee C2

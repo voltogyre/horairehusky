@@ -36,3 +36,17 @@ St-G - Aréna St-Gilles
 CBVO - Centre Bruno Verret (glace Olympique)
     Féminin - PeeWee C
     PeeWee C2
+=============================
+(6)
+2019-10-03T00:00:00
+19:00:00 - 20:20:00 ( 01:20 )
+CBV - Centre Bruno Verret (glace standard)
+    Féminin - Bantam A
+    Féminin - PeeWee C
+=============================
+Pratique Techinique(7)
+2019-10-07T00:00:00
+19:00:00 - 19:50:00 ( 00:50 )
+CBV - Centre Bruno Verret (glace standard)
+    Féminin - PeeWee C
+    PeeWee B3

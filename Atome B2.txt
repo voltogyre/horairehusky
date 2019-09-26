@@ -22,3 +22,10 @@ St-Ro - Aréna St-Romuald
 St-Ag - Aréna St-Agapit
     Atome B2
     Féminin - Atome B
+=============================
+(4)
+2019-10-10T00:00:00
+17:00:00 - 17:50:00 ( 00:50 )
+CBV - Centre Bruno Verret (glace standard)
+    Atome B1
+    Atome B2
