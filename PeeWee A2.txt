@@ -15,7 +15,14 @@ CBVO - Centre Bruno Verret (glace Olympique)
     PeeWee A1
     PeeWee A2
 =============================
-(3)
+Pratique Technique(3)
+2019-10-01T00:00:00
+19:15:00 - 20:05:00 ( 00:50 )
+CBVO - Centre Bruno Verret (glace Olympique)
+    PeeWee A1
+    PeeWee A2
+=============================
+(4)
 2019-10-10T00:00:00
 18:00:00 - 19:20:00 ( 01:20 )
 CBV - Centre Bruno Verret (glace standard)

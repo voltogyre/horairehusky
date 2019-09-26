@@ -15,3 +15,17 @@ CBV - Centre Bruno Verret (glace standard)
 Lauzon - Aréna Lauzon / André Lacroix
     Atome A1
     Atome A2
+=============================
+Pratique Technique(3)
+2019-10-01T00:00:00
+17:15:00 - 18:05:00 ( 00:50 )
+CBVO - Centre Bruno Verret (glace Olympique)
+    Atome A1
+    Atome A2
+=============================
+(4)
+2019-10-11T00:00:00
+17:00:00 - 17:50:00 ( 00:50 )
+St-Ro - Aréna St-Romuald
+    Atome A1
+    Atome A2

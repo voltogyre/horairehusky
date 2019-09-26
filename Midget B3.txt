@@ -20,3 +20,9 @@ St-Ro - Aréna St-Romuald
 20:00:00 - 20:50:00 ( 00:50 )
 CBV - Centre Bruno Verret (glace standard)
     Midget B3
+=============================
+(4)
+2019-10-07T00:00:00
+20:30:00 - 21:20:00 ( 00:50 )
+St-Ro - Aréna St-Romuald
+    Midget B3
