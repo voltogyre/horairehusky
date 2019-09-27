@@ -51,48 +51,54 @@ CBVO - Centre Bruno Verret (glace Olympique)
     Novice - Groupe 1
 =============================
 (9)
+2019-10-04T00:00:00
+17:15:00 - 18:05:00 ( 00:50 )
+CBVO - Centre Bruno Verret (glace Olympique)
+    Novice - Groupe 1
+=============================
+(10)
 2019-10-05T00:00:00
 09:45:00 - 10:35:00 ( 00:50 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Novice - Groupe 1
 =============================
-(10)
+(11)
 2019-10-06T00:00:00
 12:00:00 - 12:50:00 ( 00:50 )
 CBV - Centre Bruno Verret (glace standard)
     Novice - Groupe 1
 =============================
-(11)
+(12)
 2019-10-12T00:00:00
 06:45:00 - 07:35:00 ( 00:50 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Novice - Groupe 1
 =============================
-(12)
+(13)
 2019-10-13T00:00:00
 11:30:00 - 12:20:00 ( 00:50 )
 St-Ro - Aréna St-Romuald
     Novice - Groupe 1
 =============================
-(13)
+(14)
 2019-10-19T00:00:00
 11:45:00 - 12:35:00 ( 00:50 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Novice - Groupe 1
 =============================
-(14)
+(15)
 2019-10-20T00:00:00
 14:00:00 - 14:50:00 ( 00:50 )
 CBV - Centre Bruno Verret (glace standard)
     Novice - Groupe 1
 =============================
-(15)
+(16)
 2019-10-26T00:00:00
 08:45:00 - 09:35:00 ( 00:50 )
 CBVO - Centre Bruno Verret (glace Olympique)
     Novice - Groupe 1
 =============================
-(16)
+(17)
 2019-10-27T00:00:00
 13:30:00 - 14:20:00 ( 00:50 )
 St-Ro - Aréna St-Romuald
