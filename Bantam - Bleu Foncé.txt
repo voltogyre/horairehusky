@@ -1,20 +1,20 @@
 ************************************************************
-                        Bantam - Orange
+                        Bantam - Bleu Foncé
 ************************************************************
 =============================
 (1)
 2019-09-09T00:00:00
-20:00:00 - 20:50:00 ( 00:50 )
+19:00:00 - 19:50:00 ( 00:50 )
 CBV - Centre Bruno Verret (glace standard)
-    Bantam - Bleu pâle
-    Bantam - Orange
+    Bantam - Gris
+    Bantam - Bleu Foncé
 =============================
 (2)
 2019-09-13T00:00:00
-18:00:00 - 19:20:00 ( 01:20 )
+19:30:00 - 20:50:00 ( 01:20 )
 St-Ro - Aréna St-Romuald
-    Bantam - Gris
-    Bantam - Orange
+    Bantam - Bleu Foncé
+    Bantam - Bleu pâle
 =============================
 (3)
 2019-09-15T00:00:00
@@ -24,15 +24,15 @@ St-Ro - Aréna St-Romuald
     Bantam - Orange
 =============================
 (4)
-2019-09-17T00:00:00
-19:45:00 - 21:05:00 ( 01:20 )
-CBVO - Centre Bruno Verret (glace Olympique)
-    Bantam - Noir
-    Bantam - Orange
+2019-09-16T00:00:00
+19:00:00 - 20:20:00 ( 01:20 )
+CBV - Centre Bruno Verret (glace standard)
+    Bantam - Rouge
+    Bantam - Bleu Foncé
 =============================
 (5)
 2019-09-22T00:00:00
-18:30:00 - 19:50:00 ( 01:20 )
+17:00:00 - 18:20:00 ( 01:20 )
 CBV - Centre Bruno Verret (glace standard)
-    Bantam - Bleu pâle
-    Bantam - Orange
+    Bantam - Gris
+    Bantam - Bleu Foncé

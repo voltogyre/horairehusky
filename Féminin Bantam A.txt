@@ -1,0 +1,43 @@
+************************************************************
+                        Féminin Bantam A
+************************************************************
+=============================
+(1)
+2019-09-19T00:00:00
+18:30:00 - 19:35:00 ( 01:05 )
+St-Is - Aréna St-Isidore
+    Féminin Bantam AA
+    Féminin Bantam A
+=============================
+(2)
+2019-09-21T00:00:00
+17:30:00 - 18:50:00 ( 01:20 )
+St-Ro - Aréna St-Romuald
+    Féminin Bantam A
+=============================
+(3)
+2019-09-24T00:00:00
+18:00:00 - 19:20:00 ( 01:20 )
+St-G - Aréna St-Gilles
+    Féminin Bantam A
+    Féminin PeeWee C
+=============================
+(4)
+2019-09-28T00:00:00
+14:30:00 - 15:50:00 ( 01:20 )
+CBV - Centre Bruno Verret (glace standard)
+    Féminin Bantam A
+=============================
+(5)
+2019-10-03T00:00:00
+19:00:00 - 20:20:00 ( 01:20 )
+CBV - Centre Bruno Verret (glace standard)
+    Féminin Bantam A
+    Féminin PeeWee C
+=============================
+Pratique Techinique(6)
+2019-10-07T00:00:00
+20:00:00 - 20:50:00 ( 00:50 )
+CBV - Centre Bruno Verret (glace standard)
+    Féminin PeeWee AA
+    Féminin Bantam A

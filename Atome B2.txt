@@ -21,7 +21,7 @@ St-Ro - Aréna St-Romuald
 08:00:00 - 09:20:00 ( 01:20 )
 St-Ag - Aréna St-Agapit
     Atome B2
-    Féminin - Atome B
+    Féminin Atome B
 =============================
 Pratique Technique(4)
 2019-10-01T00:00:00

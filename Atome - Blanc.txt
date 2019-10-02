@@ -41,5 +41,5 @@ CBVO - Centre Bruno Verret (glace Olympique)
 2019-09-21T00:00:00
 07:00:00 - 07:50:00 ( 00:50 )
 CBV - Centre Bruno Verret (glace standard)
-    Féminin - Atome C
+    Féminin Atome C
     Atome - Blanc
