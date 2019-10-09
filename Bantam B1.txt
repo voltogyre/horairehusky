@@ -49,3 +49,10 @@ St-Ro - Aréna St-Romuald
 CBV - Centre Bruno Verret (glace standard)
     Bantam B1
     Bantam A3
+=============================
+(8)
+2019-10-13T00:00:00
+17:45:00 - 18:35:00 ( 00:50 )
+CBVO - Centre Bruno Verret (glace Olympique)
+    Bantam B1
+    Bantam B2
