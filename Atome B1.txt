@@ -36,3 +36,9 @@ CBVO - Centre Bruno Verret (glace Olympique)
 CBV - Centre Bruno Verret (glace standard)
     Atome B1
     Atome B2
+=============================
+(6)
+2019-10-12T00:00:00
+08:00:00 - 09:20:00 ( 01:20 )
+St-Ag - Aréna St-Agapit
+    Atome B1
